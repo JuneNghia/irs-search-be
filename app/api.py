@@ -1,6 +1,8 @@
 from flask import Flask, request, jsonify
 from flask_restful import Api, Resource
 from flasgger import Swagger
+from .orientdb_connect import get_data_from_orientdb
+from .spark import runSpark
 
 app = Flask(__name__)
 api = Api(app)
@@ -33,12 +35,16 @@ class Search(Resource):
                                 description: Search
         """
         query = request.args.get('query')
+    
+        data= get_data_from_orientdb()
+        
+        runSpark()
         
         if not query: 
-            return jsonify({"message": 'Yêu cầu tham số query'})
+            return jsonify({"message": 'Yêu cầu tham số query', "data": []})
         else:
-            return jsonify({"query": query.upper()})
-    
+            return jsonify({"data": data})
+        
 api.add_resource(Search, "/search")
 
 if __name__ == "__main__":

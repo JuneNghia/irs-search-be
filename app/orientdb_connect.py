@@ -7,7 +7,9 @@ def get_data_from_orientdb():
     client.db_open(ORIENTDB_DB_NAME, ORIENTDB_USER, ORIENTDB_PASS)
 
     result = client.command("SELECT * FROM PageRankLink")
+    
+    data = [record.oRecordData for record in result]
 
     client.db_close()
 
-    return result
+    return data
