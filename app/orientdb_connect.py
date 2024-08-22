@@ -6,7 +6,7 @@ def get_data_from_orientdb():
     session_id = client.connect(ORIENTDB_USER, ORIENTDB_PASS)
     client.db_open(ORIENTDB_DB_NAME, ORIENTDB_USER, ORIENTDB_PASS)
 
-    result = client.command("SELECT * FROM PageRankLink")
+    result = client.command("SELECT * FROM web_edges")
     
     data = [record.oRecordData for record in result]
 

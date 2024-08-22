@@ -38,7 +38,7 @@ class Search(Resource):
     
         data= get_data_from_orientdb()
         
-        runSpark()
+        runSpark(data)
         
         if not query: 
             return jsonify({"message": 'Yêu cầu tham số query', "data": []})
