@@ -34,8 +34,10 @@ class Search(Resource):
         """
         query = request.args.get('query')
         
-
-        return jsonify({"query": query.upper()})
+        if not query: 
+            return jsonify({"message": 'Yêu cầu tham số query'})
+        else:
+            return jsonify({"query": query.upper()})
     
 api.add_resource(Search, "/search")
 
