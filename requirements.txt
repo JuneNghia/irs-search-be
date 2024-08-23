@@ -3,3 +3,4 @@ pyorient
 pyspark
 scikit_learn
 gunicorn
+flask_cors
