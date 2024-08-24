@@ -1,0 +1,46 @@
+Meta dùng bot thu thập dữ liệu web để huấn luyện AI 
+Meta đang âm thầm triển khai công cụ thu thập dữ liệu công khai trên web nhằm phục vụ đào tạo mô hình AI của mình.
+
+Fortune dẫn nguồn từ ba công ty chuyên theo dõi bot, phần mềm này có tên Meta External Agent, được Meta triển khai từ tháng trước. Bot về cơ bản sẽ sao chép, hay thu thập tất cả dữ liệu công khai trên mọi website, kể cả các bài báo trên trang tin tức hay các bình luận trên hội nhóm mạng xã hội.Dark Visitors, công ty chuyên cung cấp công cụ tự động chặn bot thu thập dữ liệu website, cho biết Meta External Agent hoạt động tương đồng với GPTBot của OpenAI.
+
+
+
+
+
+
+
+
+
+
+
+
+Minh họa Meta dùng dữ liệu trên các mạng xã hội để huấn luyện AI. Ảnh: How to Geek
+
+Dựa trên bản lưu Internet Archive cuối tháng 7 cho thấy Meta cũng đã cập nhật website dành cho nhà phát triển, với một tab đề cập đến sự tồn tại của công cụ thu thập dữ liệu mới. Tuy nhiên, công ty của Mark Zuckerberg chưa công bố về công cụ này.Phát ngôn viên của Meta xác nhận công ty đã triển khai công cụ thu thập dữ liệu nhưng với tên gọi khác là Facebook External Hit trong nhiều năm. Tuy nhiên, phần mềm này kiêm nhiệm nhiều tính năng thay vì chỉ cho mục đích lấy dữ liệu.Giống như các công ty khác, chúng tôi huấn luyện mô hình AI tạo sinh bằng nội dung có sẵn và công khai trên mạng, phát ngôn viên Meta nói.Theo thống kê từ Dark Visitors, gần 25% website phổ biến nhất thế giới chặn GPTBot, nhưng chỉ 2% chặn Meta External Agent. Đầu năm nay, Zuckerberg cho biết các nền tảng xã hội của công ty ông đã tích lũy được một tập dữ liệu để huấn luyện AI lớn hơn cả Common Crawl - một đơn vị đã thu thập khoảng 3 tỷ website mỗi tháng kể từ năm 2011.Giới chuyên gia đánh giá sự xuất hiện của Meta External Agent cho thấy kho dữ liệu rộng lớn mà công ty đang có không còn đủ trong bối cảnh họ phải liên tục nâng cấp mô hình ngôn ngữ lớn LLaMA, mới nhất là LLaMA 3.1, cũng như mở rộng Meta AI. Công ty đang trên đà chi 40 tỷ USD năm nay, chủ yếu vào cơ sở hạ tầng, chip AI và các chi phí liên quan.Bảo Lâm
+Trải nghiệm chatbot AI cá nhân trên Facebook, Instagram
+Meta bị phạt 1,4 tỷ USD vì thu thập khuôn mặt người dùng
+Người dùng Messenger, Instagram có thể tự tạo chatbot AI cá nhân
+Meta khai tử Workplace để tập trung vào AI
+Trải nghiệm chatbot AI cá nhân trên Facebook, Instagram
+
+
+
+
+Meta bị phạt 1,4 tỷ USD vì thu thập khuôn mặt người dùng
+
+
+
+
+Người dùng Messenger, Instagram có thể tự tạo chatbot AI cá nhân
+
+
+
+
+Meta khai tử Workplace để tập trung vào AI
+
+
+
+
+
+
+

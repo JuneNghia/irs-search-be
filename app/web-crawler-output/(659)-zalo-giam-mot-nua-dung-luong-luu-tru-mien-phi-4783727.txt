@@ -1,0 +1,36 @@
+Zalo giảm một nửa dung lượng lưu trữ miễn phí 
+Zalo giảm dung lượng lưu trữ miễn phí từ 1 GB xuống 500 MB, nhưng không thông báo trước cho người dùng ứng dụng nhắn tin.
+
+Sau khi tải tệp tin gần 100 MB lên phần Cloud của Zalo sáng 20/8, Phương Anh (Hà Tĩnh) bất ngờ nhận được cảnh báo đã đầy dung lượng.Thường xuyên sử dụng để lưu tệp tin quan trọng như tài liệu, ảnh giấy tờ nhiều năm nay, Phương Anh đánh giá cao sự tiện lợi của tính năng này trên ứng dụng nhắn tin vì dung lượng miễn phí 1 GB đủ để cô lưu trữ tài liệu nhiều năm. Tuy nhiên khi nhận được thông báo và kiểm tra lại, cô mới biết dung lượng hiện chỉ còn 500 MB, giảm một nửa so với trước.Các tệp tin hiện vẫn còn, nhưng liệu con số 500 MB có bị nền tảng giảm tiếp sau này không?, Phương Anh băn khoăn. Do bị đầy, cô cũng phải tìm cách đưa các tệp tin quan trọng sang một nền tảng khác nhằm lưu trữ lâu dài.
+
+
+
+
+
+
+
+
+
+
+
+
+Thông báo đầy dung lượng Cloud trên Zalo. Ảnh: Lưu Quý
+
+Những ngày qua, nhiều người dùng Zalo cho biết họ bất ngờ khi phát hiện dung lượng lưu trữ giảm đi một nửa. Ứng dụng không đưa ra thông báo, người dùng chỉ biết khi lưu trữ quá giới hạn hoặc truy cập menu xem thông tin.Dù miễn phí, việc nền tảng đưa ra thay đổi nên được báo trước để người dùng có sự chuẩn bị, Thành Hưng (Hà Nội), nói. Khi bị giảm không báo trước, tôi chỉ còn cách tìm thêm các nền tảng để lưu trữ, tránh mất dữ liệu,Cloud của tôi là tính năng trên Zalo cho phép lưu trữ văn bản, hình ảnh, tài liệu tương tự các dịch vụ lưu trữ đám mây khác, nhưng được thực hiện bằng cách như gửi tin nhắn cho chính mình trên điện thoại, máy tính. Các tệp này sẽ được lưu trên đám mây của nền tảng và cho phép truy cập từ bất cứ thiết bị nào.Tính năng được nhiều người sử dụng vì tính tiện lợi, có thể lưu nhanh dữ liệu quan trọng trong thời gian dài. Chúng cũng cho phép lưu tệp tin trong đoạn chat nhằm tránh tình trạng mất tin nhắn, vốn thường xuyên xảy ra với người dùng Zalo.Zalo chưa đưa ra bình luận về thay đổi này.
+
+
+
+
+
+
+
+
+
+
+
+
+Cloud của Zalo hiển thị dung lượng 500 MB. Ảnh: Lưu Quý
+
+Thực tế, dù hết dung lượng, nền tảng vẫn cho phép người dùng tải thêm tệp tin vào và lưu tạm thời. Các tệp mới được đánh dấu Chưa có trên Cloud, vẫn cho phép người dùng xem và tải về từ thiết bị khác, nhưng sẽ bị xóa sau một tuần thay vì lưu dài hạn.Theo ông Đặng Hữu Trí, người có nhiều năm phát triển các sản phẩm quảng cáo trên mạng xã hội, đây không phải lần đầu người dùng bị giới hạn với các tính năng của Zalo. Tình trạng nhiều người hay gặp là sự thiếu đồng bộ và có thể mất file dữ liệu, đặc biệt với người dùng từ hai thiết bị trở lên.So sánh với ứng dụng nhắn tin của Meta, ông Trí nhận định nền tảng Việt có ưu thế gửi file hơn 100 MB so với 25 MB của Messenger. Tuy nhiên, các file lớn chỉ được lưu tạm thời trong cloud và hết hạn truy cập trong khoảng một tuần. Trong khi đó, người dùng Messenger gần như không cần quan tâm đến chuyện đồng bộ hay phải lưu trữ để tránh mất dữ liệu.Với động thái mới của Zalo, ông Trí cho rằng có thể sẽ tạo ra vấn đề cấp thiết về lưu trữ dữ liệu, khiến người dùng, doanh nghiệp phải tìm giải pháp trả phí khác, như mua gói thuê bao lưu trữ của nền tảng.Zalo gần đây cũng cung cấp giải pháp lưu trữ mở rộng là zCloud với giá 490 nghìn đồng cho 100 GB dung lượng một năm. Mức này cao hơn so với 450 nghìn đồng của Google Drive.Để tối ưu phần dung lượng 500 MB, người dùng có thể dọn dẹp, xóa bớt tệp tin dung lượng cao hoặc ít quan trọng nhằm duy trì bộ nhớ trống để sử dụng.Lưu Quý
+
+

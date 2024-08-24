@@ -1,0 +1,51 @@
+Các công cụ AI nổi bật trình diễn tại AI4VN 
+Công cụ AI tạo nội dung, viết code, AI chẩn đoán bệnh, AI Box biến camera thường thành thông minh đang được trình diễn tại Ngày hội Trí tuệ Nhân tạo Việt Nam 2024.
+
+Sáng 23/8, trong không gian triển lãm của sự kiện AI4VN 2024 tại Trung tâm hội nghị Quốc gia Hà Nội, có hơn 20 gian hàng, trình diễn các ứng dụng, giải pháp về AI được phát triển bởi các đơn vị trong và ngoài nước.Một trong những gian hàng thu hút được sự quan tâm của nhiều người tham dự là AI Box, thiết bị biến camera thường thành camera thông minh. Điểm độc đáo của sản phẩm nằm ở việc dễ dàng kết nối cùng khả năng xử lý đa dạng các tác vụ nhận diện. Khi cắm AI Box vào mạng, sản phẩm có thể tìm kiếm các camera bên trong mạng, từ đó trở thành nơi xử lý tập trung dữ liệu cho camera. Nhờ AI, thiết bị có thể nhận diện và xử lý khoảng 20 tình huống khác nhau và đưa cảnh báo tời người dùng.
+
+
+
+
+
+
+
+
+
+
+
+
+Đại diện AI Box chia sẻ về sản phẩm tại AI4VN 2024. Ảnh: Lưu Quý
+
+AI4VN năm nay cũng xuất hiện nhiều giải pháp AI trong y tế, nhận được sự quan tâm của giới chuyên gia. Ví dụ, Genomate trưng bày giải pháp AI để chỉ định thuốc điều trị bệnh. VKIST ứng dụng trí tuệ nhân tạo để xử lý ảnh siêu âm, đưa ra những hình ảnh dự đoán về thai nhi.Trong kỷ nguyên bùng nổ của AI tạo sinh, các ứng dụng liên quan đến công nghệ này cũng xuất khắp nơi tại AI Expo và không gian AI Workshop.CodeVista - ứng dụng Gen AI thông qua cơ chế prompting tương tự ChatGPT nhưng bổ sung nhiều tính năng chuyên biệt để hỗ trợ cho các tác vụ coding. Ứng dụng có khả năng bình luận về phần code, sửa lỗi bug trong phần lập trình của người dùng, chỉ ra lý do tại sao nên sửa những lỗi như vậy và những loại thư viện nào mà lập trình viên nên sử dụng.AIVA, công cụ AI tạo sinh được phát triển theo hướng trợ lý ảo, cũng thu hút sự chú ý cả trong sân khấu AI Workshop và khu Expo. Trong phần trình diễn, đại diện hãng cho Aiva thử nghiệm xây dựng ý tưởng, sáng tạo nội dung trực tiếp. Kết quả từ sản phẩm AI gây bất ngờ cho nhiều khách tham quan, nhận nhiều tràng pháo tay từ người xem.
+
+
+
+
+
+
+
+
+
+
+
+
+Gian hàng của Meta cho người dùng trải nghiệm công nghệ thực tế ảo. Ảnh: Lưu Quý
+
+Song song với các giải pháp về AI, nhiều công nghệ và giải pháp mới cũng được các đơn vị đưa đến AI4VN về giáo dục, thực tế ảo, giải pháp doanh nghiệp. Không gian AI Expo sẽ diễn ra xuyên suốt trong ngày 23/8.Chiều 23/8, người tham dự AI4VN sẽ có thể tham gia AI Summit. Sự kiện này có sự tham gia của lãnh đạo Chính phủ, các bộ ngành, tập đoàn lớn, nhà khoa học, cộng đồng quan tâm đến phát triển, ứng dụng AI trong nước và quốc tế, trường đại học, doanh nghiệp. Tại diễn đàn, bức tranh thực tế cùng những cơ hội và thách thức khi ứng dụng trí tuệ nhân tạo tạo sinh (GenAI) trong các lĩnh vực và tiềm năng của công nghệ này trong tương lai sẽ được tái hiện.
+
+
+
+
+
+
+
+
+
+
+
+
+Genomate giới thiệu giải pháp chỉ định thuốc bằng ứng dụng AI. Từ dữ liệu đầu vào là xét nghiệm chẩn đoán phân tử sẵn có, hệ thống xếp hạng (điểm AEL), sử dụng thuật toán chỉ định thuốc số hóa và đưa ra liệu pháp điều trị khuyến nghị. Ảnh: Lưu Quý
+
+Ngày hội AI4VN do Bộ Khoa học và Công nghệ chỉ đạo, Báo VnExpress, Công ty Cổ phần Dịch vụ trực tuyến FPT (FPT Online) tổ chức với sự phối hợp của Câu lạc bộ Các Khoa - Viện - Trường Công nghệ thông tin -Truyền thông (FISU), bắt đầu từ năm 2018.Sau 6 năm tổ chức, AI4VN trở thành diễn đàn quốc gia quan trọng, tập hợp nguồn lực thực hiện thành công Chiến lược quốc gia về nghiên cứu, triển khai và ứng dụng trí tuệ nhân tạo của Việt Nam giai đoạn 2020-2030.Lưu Quý
+
+

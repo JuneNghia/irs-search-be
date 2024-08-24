@@ -1,0 +1,40 @@
+Ký tự khiến iPhone bị đơ tạm thời khi tìm kiếm 
+Khi người dùng nhập một số ký tự nhất định vào ô tìm kiếm, iPhone sẽ bị đơ một lúc trước khi quay lại màn hình khóa.
+
+Nhà nghiên cứu bảo mật có biệt danh Konstantin trên mạng xã hội Mastodon cho biết khi nhập :: hoặc A:B với A và B là ký tự bất kỳ vào thanh tìm kiếm App Library, tìm kiếm ứng dụng Settings hoặc màn hình Spotlight Search trên iPhone, điện thoại sẽ bị sập, sau đó chuyển về màn hình khóa.
+
+
+
+
+
+
+
+
+
+
+
+
+iPhone 15 Pro Max. Ảnh: Tuấn Hưng
+
+Theo 9to5mac, vấn đề xảy ra trên nhiều phiên bản iOS, kể cả iOS 17 mới nhất và bản beta iOS 18 và iOS 18 .1, nhưng mức độ ảnh hưởng khác nhau.Nhà nghiên cứu bảo mật iOS Ryan Stortz nói với TechCrunch rằng nguyên nhân liên quan đến Springboard - ứng dụng quản lý màn hình chính của iOS. Tuy vậy, đây không phải lỗi bảo mật. Do đó, trừ khi người dùng cố tình nhập ký tự, vấn đề không gây ảnh hưởng đến trải nghiệm người dùng.Apple chưa đưa ra bình luận.Trước đó, iOS từng gặp tình trạng tương tự. Năm 2021, một nhà nghiên cứu bảo mật phát hiện lỗi lạ khiến iPhone có thể bị vô hiệu hóa tính năng wifi sau khi kết nối vào mạng có chứa ký tự %. Năm 2018, một lỗi gây treo máy cho thiết bị di động chạy iOS nếu người dùng cố gắng làm cho thiết bị hiển thị một ký tự trong ngôn ngữ Ấn Độ. Năm 2015, iPhone cũng bị khởi động lại khi người dùng nhận được tin nhắn chứa ký tự tiếng Arab.Bảo Lâm
+Apple sửa lỗi iPhone tự khôi phục ảnh đã xóa
+Samsung chế giễu Apple vì lỗi báo thức trên iPhone
+Apple lý giải sự cố ảnh đã xóa tự phục hồi trên iPhone
+Apple sửa lỗi iPhone tự khôi phục ảnh đã xóa
+
+
+
+
+Samsung chế giễu Apple vì lỗi báo thức trên iPhone
+
+
+
+
+Apple lý giải sự cố ảnh đã xóa tự phục hồi trên iPhone
+
+
+
+
+
+
+

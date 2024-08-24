@@ -1,0 +1,22 @@
+Mô phỏng 3D mạch máu thận tìm lỗ rò gây chảy máu 
+TP HCMBác sĩ mô phỏng cấu trúc mạch máu thận của bà Vân dưới dạng 3D, tìm ra ba lỗ rò rất nhỏ và nút mạch để chặn tình trạng đi tiểu ra máu.
+
+Đây là lần đầu tiên chúng tôi ứng dụng kỹ thuật mô phỏng 3D để phát hiện những điểm rò rất nhỏ tại mạch máu thận, BS.CKI Phan Huỳnh Tiến Đạt, khoa Tiết niệu, Trung tâm Tiết niệu - Thận học - Nam khoa, Bệnh viện Đa khoa Tâm Anh TP HCM, cho biết hôm 24/8. Kỹ thuật này còn được ứng dụng trong tầm soát, phát hiện sớm nhiều vấn đề bên trong cơ thể khác như ung thư, bệnh tim mạch, bệnh mạch máu, xương khớp...Trước đó, bà Vân, 82 tuổi, tiểu ra máu suốt một tháng nhưng khám ở nhiều bệnh viện không tìm ra nguyên nhân. 6 tháng trước bà được phẫu thuật nội soi cắt một phần thận trái nên bác sĩ Đạt nghi ngờ tình trạng tiểu máu liên quan đến rò động tĩnh mạch. Tình trạng này xảy ra khi giữa động mạch và tĩnh mạch thận có kết nối bất thường.Bác sĩ ứng dụng hệ thống máy chụp cắt lớp vi tính CT 768 lát cắt độ phân giải cao để biểu diễn toàn bộ cấu trúc mạch máu thận và quả thận của bà Vân thành mô hình 3D (3 chiều) trên máy tính. Nhờ phóng to, quan sát các chi tiết thận và hệ thống mạch máu thận, bác sĩ Đạt phát hiện ba đường rò kích thước khoảng 1 mm trên động tĩnh mạch thận trái. Đây là nguyên nhân khiến bà Vân bị tiểu máu dai dẳng.Theo bác sĩ Đạt, rò động tĩnh mạch thận là biến chứng sau phẫu thuật nội soi cắt khối u bảo tồn thận rất ít gặp nên dễ bỏ sót. Trường hợp đường rò rất nhỏ như bà Vân cần hệ thống máy CT có độ phân giải lớn mới có thể quan sát rõ tổn thương và bác sĩ chẩn đoán hình ảnh giàu kinh nghiệm, đọc kết quả chuẩn xác.Bà Vân được nút mạch thận để đóng lại đường rò. BS.CKI Dương Đình Hoàn, Trưởng đơn vị Can thiệp thần kinh, Trung tâm Chẩn đoán hình ảnh và Điện quang can thiệp, cùng êkíp thực hiện kỹ thuật chụp mạch máu số hóa xóa nền (DSA) bằng X-quang để khảo sát hệ thống mạch máu tại thận trái, ghi nhận tình trạng tăng sinh nhiều mạch máu ở 1/3 dưới thận trái. Bác sĩ luồn ống thông đường kính siêu nhỏ chưa đến 1 mm vào các nhánh động mạch tăng sinh rồi tiến hành nút mạch.
+
+
+
+
+
+
+
+
+
+
+
+
+Các bác sĩ Trung tâm Chẩn đoán hình ảnh và Điện quang can thiệp thực hiện nút mạch thận cho bà Vân. Ảnh: Bệnh viện Đa khoa Tâm Anh
+
+Bác sĩ Hoàn cho biết điểm khó của trường hợp này là phải đưa ống luồn vào đúng nhánh mạch máu tăng sinh để nút mạch, tránh tổn thương các động mạch khác, đảm bảo cung cấp đủ lượng máu nuôi cần thiết cho thận.Sau 90 phút, các mạch máu tăng sinh đã được nút chặn hoàn toàn, không có tổn thương ở các nhánh động mạch thận còn lại, ca mổ kết thúc. Một ngày sau, bà Vân không còn tiểu máu, không đau, được xuất viện. Bà cần tái khám định kỳ ba tháng một lần để đánh giá u thận và tình trạng tiểu máu.Bác sĩ Đạt cho biết tỷ lệ rò động mạch tĩnh mạch thận rất thấp nên các thống kê còn hạn chế. Một nghiên cứu của Mỹ cho thấy tỷ lệ mắc rò động tĩnh mạch thận là 0,04%.Có nhiều nguyên nhân hình thành đường rò động tĩnh mạch thận như dị tật bẩm sinh, tổn thương mạch máu do khối u thận, chấn thương thận hoặc phẫu thuật tại thận. Người bệnh có thể bị tiểu máu đại thể hoặc tiểu máu vi thể (máu lẫn trong nước tiểu nhưng không thể nhìn thấy bằng mắt thường) phải xét nghiệm nước tiểu mới có thể phát hiện.Nếu không được điều trị, rò động tĩnh mạch thận có thể gây ra các biến chứng nguy hiểm như tăng huyết áp, tắc nghẽn đường tiểu hoặc suy tim sung huyết (tim bơm máu không đáp ứng nhu cầu oxy của cơ thể, gây ứ máu tại nhiều cơ quan). Hiện có thể kiểm soát tình trạng này bằng cách phẫu thuật hoặc nút mạch.Bác sĩ Đạt khuyến cáo người có tiền sử can thiệp thận (sinh thiết thận, phẫu thuật một phần thận...) hoặc từng chấn thương thận xuất hiện tiểu máu cần đến bệnh viện khám sớm. Bác sĩ xác định chính xác nguyên nhân để điều trị phù hợp.Thắng Vũ*Tên người bệnh đã được thay đổiĐộc giả gửi câu hỏi về bệnh thận tại đây để bác sĩ giải đáp
+
+
+

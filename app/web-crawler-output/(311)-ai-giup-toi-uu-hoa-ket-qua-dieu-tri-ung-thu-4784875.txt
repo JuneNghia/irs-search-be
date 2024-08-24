@@ -1,0 +1,51 @@
+AI giúp tối ưu hóa kết quả điều trị ung thư 
+TS BS Nguyễn Hải Tuấn, Cố vấn Tin Sinh học Digosys cho biết giải pháp Genomate sử dụng AI phân tích dữ liệu gene, đề xuất phương pháp điều trị ung thư cho từng bệnh nhân.
+
+Thông tin trên được TS BS Nguyễn Hải Tuấn đưa ra trong tham luận tại Ngày hội Trí tuệ Nhân tạo Việt Nam 2024, sáng 23/8. Mở đầu tham luận ông đưa ra thực trạng ung thư tại Việt Nam, ghi nhận khoảng 180.840 ca mắc mới và 120.184 ca tử vong trong năm 2022. Song song đó, có những hạn chế trong việc chẩn đoán và điều trị.Việc chẩn đoán bệnh muộn và thiếu thiết bị hiện đại là những yếu tố làm giảm hiệu quả điều trị ung thư, TS BS Nguyễn Hải Tuấn nói, đồng thời ông đưa ra xu hướng trên thế giới đang chuyển dịch sang các phương pháp điều trị chính xác, xét nghiệm hồ sơ phân tử và giảm tác dụng phụ cho bệnh nhân.
+
+
+
+
+
+
+
+
+
+
+
+
+TS BS Nguyễn Hải Tuấn, Cố vấn Tin Sinh học Digosys tại sự kiện. Ảnh: Giang Huy
+
+Ông Tuấn nhắc đến giải pháp Genomate của Digosys được phát triển dựa trên AI, nhằm nâng cao hiệu quả điều trị và cá nhân hóa liệu pháp ung thư cho từng bệnh nhân, giúp tăng tỷ lệ sống sót, đáp ứng khối u, kéo dài thời gian sống, đồng thời cải thiện chất lượng cuộc sống người bệnh.Genomate đang được áp dụng cho khoảng 10.000 bệnh nhân trên thế giới, đạt giải thưởng đổi mới đột phá về AI trong chữa trị ung thư, tham gia chương trình hỗ trợ tăng tốc của Mayo Clinic, vị tiến sĩ giới thiệu. Theo ông, các bác sĩ và bệnh nhân, hệ thống quản lý, các nhà nghiên cứu, đối tác bảo hiểm đều hưởng lợi khi triển khai dịch vụ Genomate. Nếu được áp dụng tại Việt Nam, Genomate sẽ nâng cao chất lượng chăm sóc sức khỏe, giảm áp lực chi phí, tạo sự đột phá cho ngành y tế.
+
+
+
+
+
+
+
+
+
+
+
+
+Ông Nguyễn Hải Tuấn (thứ hai từ phải qua) cùng các diễn giả tại sự kiện. Ảnh: Giang Huy
+
+Theo đó, Genomate là hệ thống hỗ trợ ra quyết định lâm sàng (CDSS), được phát triển để tối ưu hóa điều trị ung thư, thông qua sử dụng trí tuệ nhân tạo (AI) nhằm chỉ định đúng thuốc đích và miễn dịch mà từng bệnh nhân cần. Hệ thống này có mục tiêu nâng cao hiệu quả điều trị và cá nhân hóa liệu pháp ung thư cho từng bệnh nhân, giúp tăng tỉ lệ sống sót, tăng tỉ lệ đáp ứng khối u, kéo dài thời gian sống thêm bệnh không tiến triển (PFS) và cải thiện chất lượng cuộc sống người bệnh.Hệ thống sử dụng AI để phân tích dữ liệu lớn từ bộ gen, sinh học phân tử và thông tin lâm sàng nhằm đề xuất phương pháp điều trị hiệu quả. Tại sự kiện, đại diện Digosys cũng đưa ra những ứng dụng của AI trong lĩnh vực y tế gồm: điện quang, nội soi, giải phẫu bệnh kỹ thuật số và khám phá thuốc.
+
+
+
+
+
+
+
+
+
+
+
+
+Giải pháp Genomate chỉ định thuốc bằng ứng dụng AI. Từ dữ liệu đầu vào là xét nghiệm chẩn đoán phân tử sẵn có, hệ thống xếp hạng (điểm AEL), sử dụng thuật toán chỉ định thuốc số hóa và đưa ra liệu pháp điều trị khuyến nghị. Ảnh: Lưu Quý
+
+Workshop là sự kiện khởi động Ngày hội Trí tuệ nhân tạo Việt Nam (AI4VN 2024), tổ chức tại Trung tâm Hội nghị Quốc gia, Hà Nội. Diễn ra từ 8h ngày 23/8, bốn phiên hội thảo (AI Workshop) nối tiếp với các diễn giả danh tiếng và chuyên gia trí tuệ nhân tạo đến từ các đơn vị nghiên cứu, doanh nghiệp, trường đại học, cùng trao đổi kinh nghiệm, tìm kiếm giải pháp cho những thách thức hiện tại và tối đa hóa lợi ích của các công nghệ AI.AI4VN 2024 có chủ đề Mở khóa sức mạnh trí tuệ nhân tạo tạo sinh (Unlock the power of Generative AI. Sự kiện do Bộ Khoa học và Công nghệ chỉ đạo, Báo VnExpress tổ chức với sự phối hợp của Câu lạc bộ Các Khoa - Viện - Trường Công nghệ thông tin -Truyền thông (FISU), bắt đầu từ năm 2018.Ngoài phiên chính của AI4VN (AI Summit) diễn ra chiều 23/8 có sự tham của của lãnh đạo Chính phủ, bộ ngành và các tổ chức quốc tế, trong khuôn khổ AI4VN 2024, một triển lãm (AI Expo) gồm các gian hàng trình diễn các sản phẩm AI tiêu biểu của các doanh nghiệp, viện, trường... Khách tham dự có cơ hội trải nghiệm các sản phẩm mới ứng dụng AI đang có trên thị trường Việt Nam.Tuấn Vũ - Hội An
+
+

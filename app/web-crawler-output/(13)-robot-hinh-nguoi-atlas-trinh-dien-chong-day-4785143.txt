@@ -1,0 +1,34 @@
+Robot hình người Atlas trình diễn chống đẩy 
+Boston Dynamics chia sẻ video robot Atlas đời mới tập chống đẩy, thể hiện khả năng kiểm soát sức mạnh và cân bằng vượt trội so với trước.
+
+Trong video thử nghiệm, Atlas đời mới đứng dạng chân, từ từ chuyển sang ngồi xổm và đổ mình về phía trước để chống đẩy nhiều lần, sau đó đảo ngược quá trình và trở về trạng thái đứng ban đầu.Đây được coi là cột mốc mới, đánh dấu nỗ lực phát triển robot hình người, kết hợp khả năng cử động nâng cao, sức mạnh và sự nhanh nhẹn trong một cỗ máy duy nhất.
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Robot Atlas trình diễn chống đẩy
+
+
+
+
+
+Robot Atlas biểu diễn chống đẩy trong video công bố hôm 23/8. Video: Boston Dynamics
+Phiên bản Atlas mới được trang bị hệ thống kiểm soát và phần cứng tiên tiến, mang đến khả năng cân bằng và sức mạnh vượt trội so với thế hệ cũ. Nhờ đó, nó có thể chống đẩy - nhiệm vụ đòi hỏi khả năng kiểm soát và điều phối chuyển động chính xác cao, mô phỏng năng lực cơ thể con người.Atlas đời cũ sử dụng bộ truyền động thủy lực, di chuyển bằng cách bơm chất lỏng có áp suất vào và ra. Trong khi đó, thế hệ mới ra mắt hồi tháng 4, được thiết kế để chạy hoàn toàn bằng điện.Chúng tôi đã chế tạo các bộ truyền động cỡ nhỏ theo yêu cầu riêng, công suất cao và cho phép nó thực hiện hàng loạt cử động khác nhau. Mỗi bộ truyền động có sức mạnh tương đương một vận động viên chuyên nghiệp và được sử dụng ở mọi khớp nối trên robot, CEO Boston Dynamics Robert Playter cho hay.Theo TechCrunch, sau 11 năm kể từ khi Atlas chính thức ra mắt, việc thay đổi các khớp nối điện là một cuộc đại tu lớn. Chúng tôi muốn tạo một cỗ máy mà khi công bố, nó cho thế giới thấy Boston Dynamics vừa đặt ra tiêu chuẩn một lần nữa cho robot hình người, Robert Playter nói với Boston Globe.Điệp Anh
+
+

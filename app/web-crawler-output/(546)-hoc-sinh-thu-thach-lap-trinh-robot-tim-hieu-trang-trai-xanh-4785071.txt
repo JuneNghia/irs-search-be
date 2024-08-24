@@ -1,0 +1,51 @@
+Học sinh thử thách lập trình robot, tìm hiểu trang trại xanh 
+Thí sinh Robotacon Wro 2024 cần lập trình robot thực hiện các nhiệm vụ mô phỏng tại trang trại Vinamilk Green Farm, hiểu thêm về công nghệ cho phát triển bền vững.
+
+Cuộc thi Robotacon Wro 2024 thu hút 1.500 học sinh từ 500 đội khắp cả nước tham gia. Ngày 23-24/8, Robotacon bước vào vòng chung kết toàn quốc, tại TP HCM. Với chủ đề Đồng minh Trái đất, trong cuộc thi, các đội thi trải qua nhiều nhiệm vụ chính, đồng thời nhận thử thách từ Vinamilk.Theo đại diện Vinamilk, đồng hành cùng cuộc thi năm nay với mong muốn mang đến trải nghiệm trở thành đồng minh Trái đất cho học sinh qua thử thách bất ngờ. Các thử thách được thiết kế dựa trên những ví dụ về ứng dụng robot thực hành phát triển bền vững trong hoạt động sản xuất tại trang trại Vinamilk Green Farm.Với đề thi nông nghiệp bền vững - trang trại xanh, các thí sinh thiết kế, lập trình robot để giúp bón phân hữu cơ cho đồng bắp. Đây là hoạt động áp dụng tại trang trại sinh thái Vinamilk Green Farm, nơi đang dùng các công nghệ hiện đại để chăm sóc cho hơn 20.000 bò sữa. Vòng tuần hoàn xanh tại trang trại giúp biến chất thải của đàn bò trở thành phân bón hữu cơ cho đồng bắp.
+
+
+
+
+
+
+
+
+
+
+
+
+Thí sinh tham gia chung kết Robotacon Wro 2024 tại TP HCM. Ảnh: Vinamilk
+
+Các thí sinh cũng điều khiển robot trên sa bàn mô phỏng nhà máy Vinamilk để chuyển hộp sữa đến đúng vị trí. Đường đi robot cần được tính toán chuẩn xác và nhanh nhất. Đây cũng là nhiệm vụ thực tế của các robot LGV tại nhà máy sữa. Vinamilk đang ứng dụng công nghệ (robot, AI) trong vận hàng chuyển hàng hóa, kho thông minh, sử dụng năng lượng xanh, năng lượng mặt trời,... nhằm giảm phát thải, sử dụng năng lượng tối ưu.Ban tổ chức cũng mang đến thử thách thành phố xanh, dùng robot di chuyển các khối cây xanh, khối hộp sữa vào các vị trí trong thành phố. Các robot dùng năng lượng mặt trời để thu gom, tái chế vỏ hộp thành những vật dụng hữu ích.Theo em Phạm Công Minh, lớp 5, Trường Tiểu học Vinschool Ocean Park, phần thi này đặt ra nhiều yêu cầu thú vị, mới lạ và giúp hiểu thêm về môi trường và công nghệ. Em được hiểu thêm về các trang trại. Em còn biết bò sữa được nghe nhạc, massage tự động... nên rất muốn đi tham quan trang trại của Vinamilk, tìm hiểu về các phần mềm và robot dùng để chăm sóc cho bò sữa, Công Minh nói.
+
+
+
+
+
+
+
+
+
+
+
+
+Các đội thi lên ý tưởng để giải thử thách lập trình robot. Ảnh: Vinamilk
+
+Ông Phạm Ngọc Tiến - nguyên Phó trưởng phòng trung học, Sở Giáo dục và Đào tạo TP HCM, trưởng ban cố vấn chuyên môn cho biết với thử thách này, ban tổ chức mong muốn thí sinh, các đội thi có thêm kiến thức, nâng cao ý thức về bảo vệ môi trường. Bên cạnh đó, việc hiểu cách vận hành, ứng dụng của robot trong đời sống, sản xuất sẽ giúp các em phát triển tư duy ứng dụng công nghệ, đề ra nhiều sáng kiến cho các hoạt động môi trường, phát triển bền vững.Vinamilk, đơn vị đồng hành chính, trao các giải thưởng Raising The Bar Awards dành cho các đội thi đấu xuất sắc vượt qua phần thử thách bất ngờ. Bên cạnh đó, các thí sinh đi đến vòng chung kết cũng có cơ hội trải nghiệm thực tế tại Trang trại Vinamilk Green Farm Tây Ninh và Nhà máy sữa Việt Nam (Mega) tại Bình Dương.
+
+
+
+
+
+
+
+
+
+
+
+
+Học sinh tham gia phần thi tại Robotacon. Ảnh: Vinamilk
+
+16 đội xuất sắc Robotacon Wro 2024 sẽ đại diện Việt Nam tham gia cuộc thi Sáng tạo Robot quốc tế tại Singapore và cuộc thi Robot thế giới World Robot Olympiad 2024 tại Thổ Nhĩ Kỳ.Hoài Phương
+
+

@@ -1,0 +1,28 @@
+Làm sao nhận biết máy tính Windows đang bị tấn công? 
+Máy phản hồi chậm, lướt web khó khăn hay đèn LED ổ cứng nhấp nháy liên tục có thể là dấu hiệu thiết bị Windows đang bị tấn công.
+
+Người dùng sẽ nhận ra máy tính bị tấn công nếu trên màn hình xuất hiện thông báo bị hack. Tuy nhiên, trong nhiều trường hợp, việc quét bằng chương trình diệt virus cũng không phát hiện vấn đề. Theo PC World, lúc này, người dùng cần xem kỹ các triệu chứng để đưa ra hướng xử lý chính xác.
+
+
+
+
+
+
+
+
+
+
+
+
+Minh họa laptop trong tình trạng báo động đỏ. Ảnh: Pexels
+
+Hệ thống phản ứng chậmTriệu chứng đầu tiên là hệ thống đột nhiên chạy chậm chạp. Các chương trình khởi động lâu và khi vào Task Manager, chỉ số sử dụng CPU đạt 100% dù không có nhiều ứng dụng mở đồng thời.Theo chuyên gia, có nhiều nguyên nhân vô hại làm cho chỉ số CPU đạt 100%, như một chương trình phần mềm nặng đang thực hiện nhiệm vụ tính toán phức tạp. Trên máy tính cũ, việc phát video độ phân giải Full HD cũng có thể dẫn đến tình trạng này.Tuy nhiên, không loại trừ khả năng máy nhiễm mã độc tống tiền (ransomware). Với một lượng lớn dữ liệu, quá trình mã hóa có thể kéo dài vài giờ, gây ngốn tài nguyên CPU. Một trường hợp khác liên quan đến crypto-jacker, còn gọi là phần mềm khai thác, lạm dụng máy tính để đào tiền số một cách âm thầm. Các mã độc này thường được cài trên trình duyệt, nhưng vẫn khiến máy chạy chậm.Người dùng cần bật Task Manager xem chương trình lạ nào đang hoạt động. Nếu không thể phát hiện, có thể cài trình diệt virus và quét kỹ nhiều lần.Đèn LED ổ cứng nhấp nháy liên tụcĐèn LED ổ cứng sáng lên bất thường hoặc nhấp nháy liên tục là dấu hiệu bộ phận này đang hoạt động nhiều. Nếu là ổ HDD, người dùng có thể nghe tiếng ồn của đĩa từ và đầu đọc ghi.Có một số phần mềm hoạt động khiến ổ cứng phải vận hành nhiều hơn, như dịch vụ lập chỉ mục Windows hoặc chương trình diệt virus đang quét tự động. Tuy nhiên, cũng có những nguyên nhân nguy hiểm hơn như virus hoặc ransomware đang quét tập tin, mã hóa dữ liệu đòi tiền chuộc.Người dùng có thể kiểm tra bằng cách nhấn tổ hợp phím Windows + R, nhập resmon và nhấn Enter. Chuyển sang tab Disk, nhấp vào Total để sắp xếp các quy trình hoạt động theo tuần tự đọc - ghi của chúng. Nếu phát hiện tiến trình bất thường, có thể máy đã nhiễm mã độc.Bất thường khi lướt web, xem video trực tuyếnViệc lướt web bị gián đoạn, video phát trực tuyến liên tục dừng có thể do wifi chập chờn, mạng chậm hoặc tải tệp lớn chiếm nhiều băng thông. Tuy nhiên, nó cũng có thể do máy tính nhiễm phần mềm độc hại, hay kẻ tấn công đang xâm nhập và sao chép một lượng lớn dữ liệu của máy lên Internet.Người dùng cần xem phần mềm đang ngốn băng thông và tắt đi. Nếu không có, nên kiểm tra và khởi động modem wifi. Nếu vẫn không cải thiện, máy tính có thể đã bị cài mã độc.Quảng cáo không mong muốnKhi đang sử dụng và quảng cáo bất ngờ xuất hiện trên màn hình máy tính, rất có thể thiết bị bị nhiễm adware. Nó thậm chí phát các pop-up quảng cáo giả yêu cầu người dùng tải trình diệt virus, nhưng thực tế là mã độc, nên người dùng tránh làm theo.Tự cài phần mềm lạKhi máy tính bị tấn công, tin tặc có thể tự điều khiển việc tải và cài đặt phần mềm lạ từ xa. Chúng thậm chí không cho phép người dùng gỡ phần mềm theo cách thông thường. Trong trường hợp này, có thể cần đến công cụ chuyên dụng bên thứ ba. Nếu vấn đề trở nên nghiêm trọng, chẳng hạn không thể gỡ hoặc cài ứng dụng mới, cách tốt nhất là khôi phục gốc cho máy tính.Bảo Lâm
+Thói quen sử dụng khiến tuổi thọ pin laptop rút ngắn
+Thói quen sử dụng khiến tuổi thọ pin laptop rút ngắn
+
+
+
+
+
+
+

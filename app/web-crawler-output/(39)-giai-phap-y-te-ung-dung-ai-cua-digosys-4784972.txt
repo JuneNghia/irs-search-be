@@ -1,0 +1,51 @@
+Giải pháp y tế ứng dụng AI của Digosys 
+Hà NộiGiải pháp Genomate của Digosys ứng dụng AI hỗ trợ điều trị ung thư, cá nhân hóa liệu pháp cho từng người, giúp cải thiện chất lượng cuộc sống được giới thiệu tại AI4VN, ngày 23/8.
+
+Gian hàng của Digosys thu hút khách tham dự tham quan, trải nghiệm tại Ngày hội Trí tuệ Nhân tạo Việt Nam 2024 (AI4VN 2024). Tại sự kiện, Digosys giới thiệu dịch vụ Genomate hướng đến tối ưu việc điều trị, sử dụng liệu pháp trúng đích hoặc miễn dịch dành cho bệnh nhân ung thư tại Việt Nam.
+
+
+
+
+
+
+
+
+
+
+
+
+Trưởng ban Kinh tế Trung ương, Phó Thủ tướng Trần Lưu Quang và lãnh đạo ban, ngành dành nhiều thời gian tại khu trưng bày của Digosys tại AI4VN 2024, lắng nghe về giải pháp sử dụng AI hỗ trợ nâng hiệu quả điều trị ung thư. Ảnh: Giang Huy
+
+Nói về dịch vụ này, đại diện Digosys cho biết Genomate là giải pháp sử dụng AI để hỗ trợ bác sĩ lâm sàng xác định phác đồ điều trị chính xác và hiệu quả nhất cho từng bệnh nhân ung thư. Bước đầu tiên trong quy trình xử lý của Digosys là khối u sinh thiết của bệnh nhân được giải trình tự đa gen bằng công nghệ giải trình tự gen thế hệ tiếp theoNGS (Next-Generation Sequencing). Mục đích của bước này là để phát hiện những thay đổi ở hơn 500 gen có độ tin cậy cao thuộc Bộ gen ung thư liên quan đến khối u ung thư của bệnh nhân. Các thông tin có được sẽ tạo nên hồ sơ phân tử duy nhất của từng bệnh nhân, bao gồm nhiều mục tiêu tiềm năng có khả năng điều trị đích hoặc miễn dịch được nhận diện.Bước tiếp theo, hệ thống Genomate sẽ quét toàn bộ các bằng chứng khoa học về y sinh trong kho dữ liệu lớn đã tích lũy nhiều thập niên và liên tục được cập nhật trên phạm vi toàn cầu. Các thuật toán phức tạp sẽ xác định những mục tiêu cần ưu tiên điều trị trong hồ sơ phân tử của bệnh nhân, và các loại thuốc có sự tác động cao nhất đến mục tiêu (nhóm mục tiêu) ưu tiên sẽ được sàng lọc theo tính chất ghép thành cặp tương tác gen - thuốc, trong một mạng lưới Gen – Mục tiêu – Thuốc ứng với từng cá thể điều trị.Ở bước thứ 3, hệ thống đưa ra báo cáo để bác sĩ tham khảo và quyết định lựa chọn. Báo cáo này gồm bảng xếp hạng các thuốc (phác đồ) điều trị theo thứ tự từ cao xuống thấp, căn cứ điểm số bằng chứng tổng hợp (AEL) được tính toán cho từng phác đồ và mục tiêu (nhóm mục tiêu) điều trị. Báo cáo cũng chỉ ra những loại thuốc cần tránh sử dụng.
+
+
+
+
+
+
+
+
+
+
+
+
+Các diễn giả đưa ra giải pháp kéo gần khoảng cách giữa lý thuyết và thực hành trong ứng dụng AI vào y tế. Ảnh: Giang Huy
+
+Hệ thống của Genomate hữu ích trong việc trao quyền cho bác sĩ ung thư đưa ra quyết định đúng đắn và hợp lý trong thời gian ngắn ngay từ lần điều trị đầu tiên dựa, trên đặc điểm riêng biệt trong hồ sơ phân tử của mỗi bệnh nhân; giúp lựa chọn khách quan nên điều trị trúng đích hay miễn dịch cho bệnh nhân, và ưu tiên điều trị trên mục tiêu nào, bằng loại thuốc nào nhằm cải thiện tối đa tình trạng bệnh nhân và đạt hiệu quả lâm sàng cao nhất, đại diện Digosys cho biết.Cũng theo Digosys, hệ thống chỉ định thuốc ứng dụng AI dành riêng cho lĩnh vực điều trị ung thư của hãng Genomate (Mỹ) là CDSS (hệ thống hỗ trợ ra quyết định lâm sàng) đầu tiên và duy nhất hiện nay trên thế giới đã chứng minh hiệu quả lâm sàng trong điều trị ung thư, với những kết quả đăng trên Natures NPJ Precision Oncology - tạp chí uy tín hàng đầu thế giới về ung thư học chính xác cùng một số ấn phẩm khoa học khác.Genomate đang được áp dụng cho khoảng 10.000 bệnh nhân trên thế giới trong vài năm trở lại đây, đạt giải thưởng đổi mới đột phá về AI trong chữa trị ung thư của Hiệp hội ung bướu lâm sàng Mỹ (ASCO), tham gia chương trình hỗ trợ tăng tốc của Mayo Clinic, TS BS Nguyễn Hải Tuấn, Cố vấn Tin Sinh học Digosys nói tại tham luận ở AI4VN sáng 23/8.
+
+
+
+
+
+
+
+
+
+
+
+
+TS BS Nguyễn Hải Tuấn, Cố vấn Tin Sinh học Digosys tại sự kiện. Ảnh: Giang Huy
+
+Theo ông, các bác sĩ và bệnh nhân, hệ thống quản lý, các nhà nghiên cứu, đối tác bảo hiểm đều hưởng lợi khi triển khai dịch vụ Genomate. Nếu được áp dụng tại Việt Nam, Genomate sẽ nâng cao chất lượng chăm sóc sức khỏe cho bệnh nhân ung thư, giảm áp lực gánh nặng chi phí điều trị đích/miễn dịch, và tạo sự đột phá cho ngành y tế.Tuấn Vũ
+
+

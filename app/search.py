@@ -130,17 +130,17 @@ def do_search(keyword):
                 'title': pagerank_dict[id]['title'],
                 'description': pagerank_dict[id]['description'],
                 'rank': pagerank_dict[id]['rank'],
-                'dot-product': dot_product,
+                'dot_product': dot_product,
                 'euclid': euclid,
                 'cosine': cosine
             }
             combined_list.append(combined_record)
     
     # Sắp xếp combined_list trước tiên theo 'dot-product' và sau đó theo 'rank'
-    combined_list_sorted = sorted(combined_list, key=lambda x: (x['dot-product'], x['rank']), reverse=True)
+    combined_list_sorted = sorted(combined_list, key=lambda x: (x['dot_product'], x['rank']), reverse=True)
 
     # Trả về danh sách đã kết hợp đã được sắp xếp
     # for record in combined_list_sorted:
     print(combined_list_sorted)
 
-    return combined_list_sorted[:10]
+    return combined_list_sorted

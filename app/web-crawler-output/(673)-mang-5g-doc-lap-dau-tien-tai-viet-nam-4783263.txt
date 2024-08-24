@@ -1,0 +1,21 @@
+Mạng 5G độc lập đầu tiên tại Việt Nam 
+Viettel triển khai thử nghiệm thành công mạng 5G độc lập, chuẩn bị cho việc chính thức cung cấp dịch vụ.
+
+Ngày 19/8, Tổng công ty viễn thông Viettel (Viettel Telecom) cho biết đã trở thành nhà mạng trong nước đầu tiên nghiên cứu và triển khai thành công mạng 5G độc lập (5G Standalone - SA), sau hơn ba tháng kể từ khi được Bộ Thông tin và Truyền thông cấp giấy phép sử dụng tần số 5G.Đây có thể coi là bước đi quan trọng cho việc chính thức cung cấp dịch vụ 5G thương mại, nhà mạng này nói. Tuy nhiên, thời gian cụ thể chưa được công bố.
+
+
+
+
+
+
+
+
+
+
+
+
+Kỹ thuật viên Viettel tại một trạm 5G thử nghiệm. Ảnh: Cẩm Thủy
+
+5G SA là mạng 5G chạy trên hạ tầng độc lập thay vì phát triển trên mạng 4G như các thử nghiệm trước đây. Giải pháp mới cho phép nhà cung cấp nâng tính linh hoạt, khả năng mở rộng của hệ thống và đưa ra nhiều dịch vụ mới.Việc triển khai được đánh giá là khó khăn hơn so với mạng 5G không độc lập (5G Non Standalone - NSA) do đầu tư chi phí lớn cho hệ thống mạng lõi mới, đồng thời phải cấu hình để kết nối hệ thống bằng tất cả thiết bị theo tiêu chuẩn 5G. Theo báo cáo của Hiệp hội các nhà sản xuất thiết bị di động toàn cầu GSA, tính đến hết quý I/2024, có 58 quốc gia thử nghiệm thành công 5G SA trên tổng số 175 quốc gia đang thử nghiệm hoặc thương mại hóa 5G.Theo Viettel Telecom, bước tiến mới giúp nhà mạng cung cấp đa dạng dịch vụ hơn cho người dùng cá nhân và doanh nghiệp. Ví dụ, người dùng có thể sử dụng các dịch vụ tận dụng lợi thế dữ liệu tốc độ cao như cuộc gọi có phụ đề, dịch ngôn ngữ, chọn chất lượng dịch vụ theo yêu cầu về gói cước, tốc độ, độ trễ, thậm chí có thể thay thế mạng cáp quang. Với doanh nghiệp, 5G SA mang đến mạng dùng riêng, hoặc các giao thức chuẩn mở giúp nhà phát triển ứng dụng khai thác năng lực mạng lưới 5G để tạo ra dịch vụ kinh doanh mới.Nhà mạng cũng cho biết đang phối hợp với các hãng smartphone lớn có tham gia thị trường Việt Nam để nâng cấp firmware thương mại cho smartphone hỗ trợ 5G SA, để người dùng có thể dùng mạng 5G hiện đại ngay khi khai trương, dự kiến trong năm nay.Trước đó, năm 2019, Viettel Telecom cũng là nhà mạng đầu tiên thử nghiệm thành công cuộc gọi trên 5G NSA. Các đơn vị khác thuộc Viettel cũng phát triển chip 5G DFE, đồng thời có thiết bị trạm gốc thông tin di động 5G đạt chứng nhận hợp quy, đáp ứng Quy chuẩn Kỹ thuật Quốc gia.Việt Nam dự kiến triển khai mạng 5G thương mại trong năm nay. Ba nhà mạng đã đấu giá thành công tần số 5G gồm Viettel, VNPT, MobiFone.Lưu Quý
+
+

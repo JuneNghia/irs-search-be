@@ -1,0 +1,21 @@
+Siemens EDA hỗ trợ đào tạo chuyên gia bán dẫn cho Việt Nam 
+Hãng phần mềm thiết kế chip Siemens EDA tặng bản quyền phần mềm và sẽ tổ chức lớp học đào tạo giảng viên ngành bán dẫn tại Việt Nam.
+
+Tại Lễ khai giảng Chương trình đào tạo giảng viên về thiết kế vi mạch bán dẫn chiều 22/8 tại Hà Nội, bà Đàm Thị Hồng Lan, đại diện nhà phân phối Vietbay của Siemens EDA tại Việt Nam, cho biết: Chúng tôi dự kiến đào tạo khoảng 30 học viên trong khóa đầu tiên, nhưng số lượng đăng ký đã cao gấp đôi.Khác với các khóa đào tạo sinh viên và người đi làm, khóa học này tập trung vào giảng viên và chuyên gia. Chương trình là kết quả của sự hợp tác bốn bên, gồm Trung tâm Đổi mới sáng tạo Quốc gia (NIC), Siemens EDA, nhà phân phối Vietbay và công ty SunEdu. Các chuyên gia được đào tạo xong sẽ trở thành nguồn lực để đào tạo sinh viên, kỹ sư cho ngành công nghiệp bán dẫn tại Việt Nam và thế giới.Siemens EDA là nhà cung cấp phần mềm, công cụ thiết kế nổi tiếng, được dùng nhiều trong ngành bán dẫn. Tiền thân công ty là Mentor Graphics Corporation, có trụ sở tại Mỹ và chuyên về phần mềm thiết kế điện tử tự động, sau đó được Siemens của Đức mua lại.
+
+
+
+
+
+
+
+
+
+
+
+
+Dan Hoz, Tổng giám đốc phụ trách sản phẩm Valor của Siemens EDA, tại sự kiện ngày 22/8/2024 ở Hà Nội. Ảnh: Lưu Quý
+
+Tại sự kiện, Siemens EDA cũng công bố tài trợ 300 bộ bản quyền phần mềm xác thực thiết kế bo mạch (Valor DFM) cho NIC và các trường đại học. Đây là phần mềm xác thực thiết kế giúp thúc đẩy sản xuất bo mạch điện tử nhanh chóng, hỗ trợ kết nối trực tiếp nhà thiết kế và nhà sản xuất bo mạch, đồng thời tạo bản sao số của toàn bộ quy trình sản xuất bo mạch điện tử PCB. Ông Dan Hoz, nhà sáng lập kiêm Tổng giám đốc bộ phận sản phẩm Valor của Siemens EDA, cho biết Việt Nam nằm trong top 4 thế giới về sản xuất hàng điện tử, nhưng độ trưởng thành về kỹ thuật số còn ở mức thấp, chỉ đạt 3 trên thang điểm 10, đòi hỏi sự thay đổi mạnh mẽ hơn nữa.Lúc này là giai đoạn quan trọng trong việc xây dựng hệ sinh thái cũng như phát triển công tác đào tạo nhân lực cho ngành bán dẫn, từ đó thúc đẩy ngành công nghiệp điện tử, Dan Hoz nói.Tại sự kiện, Thứ trưởng Kế hoạch và Đầu tư Nguyễn Thị Bích Ngọc đánh giá sự hợp tác giữa Trung tâm Đổi mới sáng tạo Quốc gia và Siemens sẽ giúp triển khai hoạt động đào tạo phát triển nguồn nhân lực thiết kế vi mạch, hợp tác thúc đẩy R&D, hình thành hệ sinh thái bán dẫn tại Việt Nam.Lưu Quý
+
+

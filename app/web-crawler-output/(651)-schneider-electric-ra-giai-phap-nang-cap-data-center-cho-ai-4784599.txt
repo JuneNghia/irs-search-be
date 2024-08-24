@@ -1,0 +1,24 @@
+Schneider Electric ra giải pháp nâng cấp data center cho AI 
+Schneider Electric hợp tác cùng Nvidia đưa ra thiết kế tham chiếu hỗ trợ triển khai AI tạo sinh trong các trung tâm dữ liệu truyền thống.
+
+AI tạo sinh bùng nổ mạnh mẽ và được xem như cuộc phục hưng kỹ thuật số tương tự Internet những năm 1990. Tác động của AI dự kiến tăng mạnh thời gian tới, khi mức đầu tư năm 2023 là 25,2 tỷ USD, gấp 9 lần năm 2022 và gấp 30 lần năm 2019, theo báo cáo AI Index của Đại học Stanford. Đây cũng là cơ hội cho các trung tâm dữ liệu (data center) mở rộng dịch vụ, đáp ứng nhu cầu về AI. Tuy nhiên, việc đổi mới và mở rộng đòi hỏi chi phí lớn, bên cạnh việc phải tìm cách tiết kiệm năng lượng và hoạt động hiệu quả, bền vững.Các mô hình AI tạo sinh đòi hỏi chip chuyên dụng và Nvidia đang thống lĩnh thị trường GPU này. Tuy nhiên, hệ thống điện, làm mát và giá đỡ của trung tâm dữ liệu truyền thống không đáp ứng được việc sắp xếp GPU thế hệ mới với mật độ cao. Do đó, Schneider Electric đã hợp tác với Nvidia để phát triển thiết kế tham chiếu về cơ sở hạ tầng cho trung tâm dữ liệu AI.Các thiết kế tham chiếu này là một bản thiết kế hệ thống cơ bản, bao gồm thông số kỹ thuật về hiệu suất, vật liệu hoặc thành phần cấu thành, và có thể điều chỉnh theo từng trường hợp cụ thể.
+
+
+
+
+
+
+
+
+
+
+
+
+Minh họa bên trong trung tâm dữ liệu. Ảnh: Schneider
+
+Thiết kế tham chiếu vốn không mới, các trung tâm dữ liệu đã áp dụng nhiều năm để rút ngắn thời gian phát triển và giảm rủi ro ngừng hoạt động khi vận hành. Tuy nhiên, thiết kế của Schneider Electric và Nvidia được đánh giá là tham chiếu toàn diện và đầu tiên trong ngành dành cho AI.Các thiết kế này dựa trên máy chủ Nvidia, nhưng vẫn có thể áp dụng cho máy chủ AI mật độ cao của thương hiệu khác. Khi đó, bên vận hành data center chỉ cần điều chỉnh thông số về nhiệt độ, cấu hình máy chủ...Lợi ích của việc sử dụng thiết kế tham chiếu là đơn giản hóa việc phân tích tính khả khi của dự án, do mật độ giá đỡ cực cao của máy chủ AI khiến nhiều thiết kế truyền thống trở nên không khả thi. Một ưu điểm khác là giúp giảm thời gian lập kế hoạch, do tham chiếu bao gồm danh sách lựa chọn thiết bị với hệ thống điện và cơ khí có sẵn trên thị trường và sơ đồ bố trí. Đồng thời, tham chiếu góp phần đảm bảo data center dành cho AI hoạt động ổn định, sử dụng năng lượng hiệu quả và khả năng mở rộng trong tương lai.
+
+
+
+Huy Đức
+

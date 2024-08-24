@@ -77,6 +77,7 @@ def insert_link(from_id, to_id):
     client.command(command)
     print(f"Insert link from {from_id} to {to_id} successfully!")
 
+
 # Read (Select) website
 def read_website(condition=""):
     command = f"SELECT FROM Website {condition}"

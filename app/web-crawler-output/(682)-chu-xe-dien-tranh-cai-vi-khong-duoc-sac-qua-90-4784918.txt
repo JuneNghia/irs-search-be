@@ -1,0 +1,36 @@
+Chủ xe điện tranh cãi vì không được sạc quá 90% 
+Hàn QuốcChính quyền Seoul yêu cầu xe điện không sạc quá 90% để được vào bãi đỗ xe ngầm.
+
+Trong nỗ lực xoa dịu lo ngại về an toàn xe điện, chính quyền Seoul đưa ra hướng dẫn khiến công chúng thêm bức xúc: xe điện không được sạc quá 90% để được vào bãi đỗ xe ngầm. Biện pháp này đang gây nhiều phản ứng tiêu cực từ cả người tiêu dùng và các chuyên gia, khi cho rằng chính sách này chỉ là biện pháp tạm thời, không thực sự giải quyết vấn đề.Đầu tháng 8, chính quyền thành phố cho biết xe điện sẽ được khuyến cáo sạc không quá 90% để vào bãi đỗ xe ngầm. Đối với các bãi đỗ công cộng, giới hạn sạc 80% sẽ được thí điểm tại các trạm sạc nhanh, với kế hoạch mở rộng cho các nhà vận hành tư nhân. Cả hai quy định này dự kiến có hiệu lực vào cuối tháng 9.Đứng trước chính sách mới, các chủ xe điện cảm thấy bối rối, vì chiếc xe điện Mercedes phát nổ tại bãi đỗ xe ngầm ở Incheon vào ngày 1/8 không hề đang sạc hay sạc đầy khi vụ cháy xảy ra.
+
+
+
+
+
+
+
+
+
+
+
+
+Cơ quan PCCC Hàn Quốc đang kiểm tra môđun pin bị cháy của chiếc Mercedes EQE, hôm 19/8. Ảnh: News1
+
+Cuộc săn phù thủy không cần thiếtChu kỳ sạc của pin lithium-ion không phải vấn đề chính, các chuyên gia cho biết, xét đến chi tiết thiết kế của xe điện.Sạc quá mức không phải yếu tố chính gây cháy, giáo sư Yoon Won-sub, giảng dạy khoa học năng lượng tại Đại học Sungkyunkwan, cho biết. Yoon cũng đứng đầu một trung tâm nghiên cứu pin do trường đại học và Samsung SDI cùng quản lý.Xe điện, ngay từ đầu, được thiết kế để không bao giờ sạc đầy, dù bảng điều khiển hiển thị 100%, Yoon nói, thêm rằng lập luận pin có nguy cơ cháy cao hơn khi sạc đầy chưa được chứng minh.Vật liệu cực cathode của pin nickel cobalt mangan (NCM) có dung lượng lý thuyết tối đa là 275 mAh, trong khi chỉ sử dụng lên đến 210 mAh trong xe điện. Và ngưỡng này là những gì các nhà sản xuất ôtô phân loại là sạc đầy khi thiết kế xe điện. Nói cách khác, các nhà sản xuất ôtô thường thiết kế xe điện để hiển thị sạc đầy ngay cả khi xe còn thiếu khoảng 5% dung lượng để thực sự đầy.Chúng tôi gọi sự khác biệt trong tỷ lệ sạc này là biên độ trong việc thiết lập độ bền của xe, một nguồn tin trong ngành ôtô cho biết. Nó tương tự như chế độ bảo vệ pin của điện thoại thông minh cho phép sạc đến 80% nhưng hiển thị là sạc đầy, người này nói.Thực tế, trong tổng số 139 vụ cháy xe điện trong ba năm qua tại Hàn Quốc, chỉ 26 vụ xảy ra trong khi sạc. Tổng cộng 68 vụ xảy ra trong khi lái xe và 36 vụ từ xe đang đỗ, theo dữ liệu từ cơ quan PCCC quốc gia Hàn Quốc.Nó giống như một cuộc săn phù thủy ngăn cản chủ xe điện với xe sạc 90% vào bãi đỗ xe ngầm, ông Yoon nói. Cần phải đưa ra các biện pháp đối phó phù hợp sau khi thảo luận kỹ lưỡng giữa các chuyên gia, ông thêm.
+
+
+
+
+
+
+
+
+
+
+
+
+Tấm biển khuyến cáo người sử dụng xe điện dừng sạc khi pin đạt mức 80% tại một bãi đỗ ngầm ở Seoul. Ảnh chụp hôm 9/8. Ảnh: News1
+
+Xâm phạm quyền sở hữuMột số chủ xe điện tức giận với chính sách này, cho rằng biện pháp này xâm phạm quyền sở hữu tài sản của họ. Giới hạn sạc đồng nghĩa việc giảm quãng đường tối đa mà xe có thể chạy mỗi lần sạc, là một trong những yếu tố lớn nhất khi mua xe điện.Ví dụ, một chiếc Tesla Model Y có thể chạy khoảng 350 km mỗi lần sạc dựa trên chứng nhận của Bộ Môi trường. Theo logic thiết kế xe điện, xe thực tế có thể chạy khoảng 332 km ngay cả khi hiển thị là sạc đầy. Với quy định 80%, điều này có nghĩa là chủ xe Model Y chỉ có thể chạy tối đa 256 km mỗi lần sạc.Nếu xe chạy xăng bốc cháy, liệu chính phủ có giới hạn đổ xăng 90% không?, một chủ xe Tesla Model Y ở Incheon viết trong một cộng đồng trực tuyến đại diện cho hơn một triệu chủ xe điện tại Hàn Quốc.Tôi không hiểu chính phủ dựa trên dữ liệu nào để đưa ra các con số như 80 và 90%; dựa trên dữ liệu đã được chứng minh nào?, bài viết nêu. Nếu nguy hiểm như vậy, tại sao chính phủ lại khuyến khích mọi người mua xe điện ngay từ đầu?.Sự phẫn nộ của họ tăng thêm khi xác nhận rằng chiếc sedan Mercedes EQE bị cháy không phải đang sạc. Nguyên nhân chính xác của vụ cháy vẫn chưa được xác định.Chính phủ, do Bộ Môi trường dẫn đầu, dự kiến công bố một loạt hướng dẫn được tăng cường vào đầu tháng 9. Nhiều biện pháp đã được đề xuất bao gồm giới hạn sạc, trợ cấp được phân loại và tiết lộ chi tiết pin của các nhà sản xuất xe điện.Mỹ Anh (theo Korea JoongAng Daily)
+
+

@@ -1,0 +1,50 @@
+Hạ tầng triển khai ứng dụng AI tạo sinh còn nhiều khó khăn 
+Dù có nhiều tiềm năng, dữ liệu vẫn chưa đủ để phát triển bùng nổ AI tạo sinh, theo TS Trần Thế Trung, Viện trưởng Viện nghiên cứu công nghệ FPT.
+
+Trong phiên thảo luận với chủ đề Data center & AI Cloud, tại Ngày hội trí tuệ nhân tạo Việt Nam 2024 (AI4VN) sáng 23/8, Tiến sĩ Trần Thế Trung, Viện trưởng Viện nghiên cứu công nghệ FPT, Phó giám đốc khối sản phẩm AI FPT Smart Cloud đã có bài tham luận với chủ đề Data center và AI Cloud.Theo tiến sĩ Trung, so với AI truyền thống, AI tạo sinh có nhiều điểm khác biệt, đòi hỏi sự tính toán, lượng dữ liệu lớn hơn và mô hình nhiều tham số. AI tạo sinh không phù hợp với các hạ tầng cũ, ông Trung nói. Hiện tại Việt Nam chưa sản xuất được chip tính toán cho trí tuệ nhân tạo, nguồn nhân lực còn nhiều hạn chế.Trí tuệ nhân tạo tạo sinh được kỳ vọng đóng góp 14.000 tỷ vào kinh tế Việt Nam trong năm 2030, tăng trưởng ứng dụng 50%, góp phần cá nhân hóa, hỗ trợ theo từng ngành, lĩnh vực cụ thể. Tuy nhiên hiện chỉ có 36% doanh nghiệp tìm hiểu, còn con số thực tế triển khai chỉ 9%. Vấn đề do AI tạo sinh mới phát triển bùng nổ 2 năm trở lại đây, dữ liệu cũng chưa đủ. FPT có thể giải quyết vấn đề này, đại diện FPT cho hay.
+
+
+
+
+
+
+
+
+
+
+
+
+TS. Trần Thế Trung - Viện trưởng, Viện Nghiên cứu Công nghệ FPT; Phó Giám đốc Khối sản phẩm AI, FPT Smart Cloud. Ảnh: Giang Huy
+
+Hiện tại, doanh nghiệp này tập trung nguồn lực để nghiên cứu, đồng thời hợp tác với NVIDIA để giải quyết các vấn đề đang tồn đọng. Trong các giải pháp FPT cung cấp trên thị trường có một phần dịch vụ của NVIDIA. Những giải pháp này bước đầu đem lại hiệu quả cho cá nhân, doanh nghiệp, chuyên gia nói thêm.Ông Trung lấy ví dụ từ trường hợp của chuỗi nhà thuốc Long Châu. Hiện nay Long Châu có khoảng 1.300 nhà thuốc 63 tỉnh thành. Tri thức về dược phẩm phức tạp và biến đổi liên tục. Trong khi việc kiểm soát tư vấn cho khách hàng đóng vai trò quan trọng bởi nó ảnh hưởng đến sức khoẻ người dùng.Để giải quyết vấn đề này, FPT Smart Cloud đã tạo nên giải pháp AI tạo sinh, đào tạo dược sĩ 5 phút mỗi ngày. Dược sĩ được nhắc lại những điểm thiếu sót mỗi ngày nên tỷ lệ tư vấn chuẩn xác cải thiện hơn so với trước đây, đại diện FPT chia sẻ thêm.Tiếp nối vấn đề khai thác trí tuệ nhân tạo tạo sinh đối với doanh nghiệp, ông Ajay Kushwaha - Giám đốc cấp cao, Kiến trúc doanh nghiệp, Khu vực ASEAN, Salesforce cho biết, họ cũng cung cấp đầy đủ giải pháp tự động từ khâu tương tác đầu tiên cho đến dịch vụ hậu mãi. Sau những gen AI, các ứng dụng như Chat GPT là những mô hình ngôn ngữ lớn.Để ứng dụng trí tuệ nhân tạo vào doanh nghiệp hiệu quả, cần cho AI hiểu bối cảnh. Bởi đây là yếu tố giúp con người đưa ra quyết định có tin con AI và có hiểu data của mình hay không, ông Kushwaha nhấn mạnh.
+
+
+
+
+
+
+
+
+
+
+
+
+TS. Trần Thế Trung và ông Ajay Kushwaha trao đổi tại ngày hội trí tuệ nhân tạo Việt Nam 2024. Ảnh: Giang Huy
+
+Đại diện Salesforce nói AI có khả năng làm việc 24/7, có thể lập tức báo thông tin cho con người và làm việc với khách hàng. Hơn nữa, ngày nay trên thế giới có nhiều nguồn đầu tư nên các mô hình AI được phát triển từng ngày. Tại Việt Nam, nhu cầu thị trường cũng rất lớn tuy nhiên vẫn chưa tận dụng hết.Trao đổi về vấn đề này, Tiến sĩ Trần Thế Trung cho rằng Việt Nam đang nhận được nhiều sự quan tâm vì thế hệ trẻ rất rành công nghệ với 70% ứng dụng gen AI. Đó như một cục nam châm thu hút doanh nghiệp, vì vậy để cần tận dụng triệt để để tạo một cú hích để phát triển mạnh mẽ AI tạo sinh, ông Trung nói.Kết thúc phiên thảo luận, ông Trung dự báo gen AI sẽ tăng trưởng rất nhanh trong tương lai, tương đương 50% trong 5 đến 10 năm tới.AI4VN 2024 có chủ đề Mở khóa sức mạnh trí tuệ nhân tạo tạo sinh (Unlock the power of Generative AI. Sự kiện do Bộ Khoa học và Công nghệ chỉ đạo, Báo VnExpress tổ chức với sự phối hợp của Câu lạc bộ Các Khoa - Viện - Trường Công nghệ thông tin - Truyền thông (FISU), bắt đầu từ năm 2018.Chương trình gồm các hoạt động: AI Summit, AI Workshop, AI Expo, AI Awards; hướng mục tiêu cung cấp bức tranh toàn cảnh từ góc nhìn ứng dụng, sự hưởng ứng của doanh nghiệp trong hệ sinh thái trí tuệ nhân tạo tại Việt Nam.Ngoài phiên chính của AI4VN (AI Summit) diễn ra chiều 23/8 có sự tham của của lãnh đạo Chính phủ, bộ ngành và các tổ chức quốc tế, trong khuôn khổ AI4VN 2024, một triển lãm (AI Expo) gồm các gian hàng trình diễn các sản phẩm AI tiêu biểu của các doanh nghiệp, viện, trường... Khách tham dự có cơ hội trải nghiệm các sản phẩm mới ứng dụng AI đang có trên thị trường Việt Nam.Thanh Lan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

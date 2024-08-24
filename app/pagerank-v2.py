@@ -11,7 +11,7 @@ try:
 except Exception as e:  
     print('LỖI')
     print(e)
-# Lấy dữ liệu từ các vertex (Website) và edge (Link)
+# Lấy dữ liệu từ các vertedx (Website) và edge (Link)
 vertices = client.command("SELECT id, url, title, description FROM Website")
 edges = client.command("SELECT FROM Link")
 

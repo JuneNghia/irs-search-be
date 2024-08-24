@@ -1,0 +1,36 @@
+GenAI Summit 2024 nói về đột phá mới của AI tạo sinh 
+Lê Viết Quốc, nhà đồng sáng lập Google Brain, cho rằng không thể xem nhẹ khả năng tự lập luận của AI trong vài năm tới khi chúng đã có thể giải toán.
+
+Tại Hội nghị GenAI Summit 2024, diễn ra ngày 18/8 ở TP HCM, tiến sĩ Lê Viết Quốc, người được mệnh danh là quái kiệt AI tại Google, nhận định từ việc AI giải toán Olympic quốc tế cho thấy máy móc đã bắt đầu biết lập luận.Đừng đánh giá thấp khả năng lập luận của AI trong vài năm tới. Nếu nhìn sâu hơn vào bộ dữ liệu toán học, nhiều câu hỏi chúng ta không giải được nhưng AI có thể, ông nói.
+
+
+
+
+
+
+
+
+
+
+
+
+Tiến sĩ Lê Viết Quốc tại sự kiện GenAI Summit 2024, diễn ra hôm 18/8, tại TP HCM. Ảnh: NTI
+
+Nhà đồng sáng lập Google Brain cho biết, khi nhận về kết quả giải toán của AI, ông cùng các cộng sự đã ngồi lật lại dữ liệu xem có hướng dẫn, tài liệu nào để AI học theo và đưa ra các bước giải không, nhưng không tìm thấy. Điều đó cho thấy AI đã bắt đầu tự lập luận như con người.Lúc nào đó, chúng ta thật sự không nhận ra đâu là lập luận của máy, đâu là của con người, ông nói và đánh giá khả năng này của AI hiện đạt 3/10, chưa xuất sắc nhưng 10 năm nữa sẽ đạt những tiến bộ không thể hình dung.Từ trải nghiệm thực tế, tiến sĩ Thắng Lương, nhà nghiên cứu cấp cao tại Google DeepMind, chỉ ra không phải lúc nào cũng có đủ dữ liệu để kiểm chứng hoặc phân tích cho AI, buộc chúng phải tự suy luận. Ông cho rằng với vấn đề phức tạp như xử lý các bài toán chưa có lời giải, GenAI sẽ dùng phương pháp suy luận dựa trên logic. Mỗi bước sẽ được AI phân tích là đúng hoặc sai. Nếu đúng sẽ tiếp tục, sai quay lại thử cách khác, từ đó tìm ra công thức đi đến đáp án.Nếu siêu trí tuệ lập luận quá nhiều sẽ sinh ra nhiều bước, từ đó dễ dẫn đến ảo giác. Khi không có sẵn dữ liệu, AI sẽ đi đường vòng. Trong việc AI giải toán, rất khó xác định đâu là ảo giác, đâu là lập luận của AI, nhất là với các bài toán kinh điển, chưa có lời giải của thế giới, ông Thắng nói.
+
+
+
+
+
+
+
+
+
+
+
+
+Tiến sĩ Thắng Lương cùng các chuyên gia quốc tế thảo luận về AI tại sự kiện GenAI Summit 2024, diễn ra hôm 18/8, tại TP HCM. Ảnh: Khương Nha
+
+Khi được hỏi cách để giảm hiện tượng ảo giác AI, Jeff Dean, Giám đốc Khoa học của Google và nhà đồng sáng lập Google Brain, Google Translate, Gemini, cho rằng GenAI hiện nay phần lớn được đào tạo theo mô hình đoán và nối từ tiếp theo. Trò chơi đoán chữ này có thể cho ra kết quả phù hợp với trường hợp này nhưng lại không đúng với trường hợp khác. Khi các nhà phát triển trộn tất cả dữ liệu lại để đào tạo, thông tin sẽ bị tách biệt, từ đó AI sinh ra ảo giác.Nếu mô hình hiểu rõ bối cảnh của từ ngữ, chúng có thể dự đoán từ tiếp theo chính xác hơn. Nói cách khác, thông tin được đưa vào và giải mã phải được đặt trong một bối cảnh cụ thể thay vì trộn tất cả, ông Dean nói và cho rằng việc này không thể giảm hiện tượng ảo giác AI về không, nhưng sẽ hiệu quả đáng kể.Trong khi đó, tiến sĩ Lê Viết Quốc đưa ra một phương án khác là đặt câu trả lời của AI vào các công cụ tìm kiếm. Để khắc chế AI ảo giác, đầu tiên phải giúp mô hình phát hiện đâu là ảo giác. Ví dụ với một câu trả lời của GenAI, nhà phát triển có thể băm nhỏ thành nhiều mệnh đề, truy vấn ngược để kiểm tra, từ đó tìm ra dữ liệu nào trong câu trả lời không đúng. Qua đó, các mô hình có thể cung cấp thêm cho người dùng thông tin là dữ liệu ở đoạn nào bị ảo giác. Phương pháp này đã được một số nhà phát triển áp dụng và cho hiệu quả tốt.Tại hội nghị, Thứ trưởng Kế hoạch và Đầu tư Nguyễn Thị Bích Ngọc dẫn dự báo của Google rằng đến 2030, giá trị tác động kinh tế hàng năm của công nghệ số tại Việt Nam có thể đạt 1.733 nghìn tỷ đồng (74 tỷ USD), trong đó có sự đóng góp lớn của AI. Bà cũng dẫn kết quả nghiên cứu của Thundermark Capital cho thấy Việt Nam và Singapore là hai đại diện Đông Nam Á đang góp mặt trong Top 30 thế giới về nghiên cứu AI.Khương Nha
+
+

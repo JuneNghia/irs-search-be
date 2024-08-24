@@ -1,0 +1,40 @@
+Toyota bị tấn công, đánh cắp 240 GB dữ liệu 
+Sau khi 240 GB dữ liệu bị rao bán trên một diễn đàn hacker, Toyota thừa nhận hệ thống mạng của công ty ở Mỹ đã bị xâm nhập.
+
+Chúng tôi đã nhận thức được tình hình. Vấn đề ảnh hưởng có phạm vi hẹp và không gây tác động toàn hệ thống, đại diện Toyota nói với Bleeping Computer ngày 19/8.Công ty xe hơi của Nhật Bản cũng cho biết đang làm việc với những bên bị ảnh hưởng và sẽ hỗ trợ nếu cần. Tuy vậy, hãng không đề cập chi tiết về thời gian hệ thống bị xâm nhập, cách tin tặc truy cập và có bao nhiêu người dùng bị lộ dữ liệu trong sự cố.
+
+
+
+
+
+
+
+
+
+
+
+
+Biển hiệu Toyota bên ngoài văn phòng ở Mỹ. Ảnh: Motor Trend
+
+Trước đó, ngày 16/8, hacker có tên ZeroSevenGroup tuyên bố đã xâm nhập vào chi nhánh Toyota ở Mỹ, đánh cắp 240 GB dữ liệu chứa thông tin về nhân viên và khách hàng, hợp đồng và thông tin tài chính. Người này cũng nói có trong tay thông tin về hạ tầng mạng bằng cách sử dụng công cụ nguồn mở ADRecon và trích xuất lượng lớn thông tin từ môi trường Active Directory.Theo phân tích dựa trên tệp tải về, chuyên gia của Bleeping Computer phát hiện các tệp đã bị rao bán được tạo từ ngày 25/12/2022 trở đi. Tuy nhiên, ngày này có thể chỉ thể hiện việc hacker đã truy cập được vào máy chủ sao lưu nơi lưu trữ dữ liệu.Tháng 12 năm ngoái, công ty con Toyota Financial Services (TFS) cũng gửi cảnh báo tới khách hàng rằng dữ liệu cá nhân và tài chính nhạy cảm bị lộ trong một vụ tấn công bằng mã độc tống tiền Medusa. TFS nói vụ hack ảnh hưởng đến chi nhánh ở châu Âu và châu Phi.Vào tháng 5/2023, Toyota thừa nhận một vụ tấn công khác, làm lộ dữ liệu vị trí xe của 2.150.000 khách hàng từ ngày 6/11/2013 đến 17/4/2023. Vài tuần sau đó, hãng tiếp tục phát hiện hai dịch vụ đám mây bị cấu hình sai khiến thông tin cá nhân của khách hàng lưu trữ trong hơn bảy năm bị rò rỉ.Sau loạt sự cố, Toyota cho biết đã triển khai hệ thống tự động để giám sát cấu hình đám mây và cài đặt cơ sở dữ liệu cho toàn bộ máy tính nội bộ nhằm ngăn chặn những vụ rò rỉ tương tự.Bảo Lâm
+Nhà mạng Mỹ lộ dữ liệu tin nhắn, cuộc gọi của gần tất cả người dùng
+Apple cảnh báo về chiêu lừa chiếm Apple ID
+Nhiều doanh nghiệp Mỹ quay về dùng giấy vì tấn công mạng
+Nhà mạng Mỹ lộ dữ liệu tin nhắn, cuộc gọi của gần tất cả người dùng
+
+
+
+
+Apple cảnh báo về chiêu lừa chiếm Apple ID
+
+
+
+
+Nhiều doanh nghiệp Mỹ quay về dùng giấy vì tấn công mạng
+
+
+
+
+
+
+

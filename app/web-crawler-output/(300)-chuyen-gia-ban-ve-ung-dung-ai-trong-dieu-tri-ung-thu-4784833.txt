@@ -1,0 +1,80 @@
+Chuyên gia bàn về ứng dụng AI trong điều trị ung thư 
+Hà NộiWorkshop cuối của AI4VN 2024 bàn về ứng dụng trí tuệ nhân tạo trong Y tế nói chung, ung thư nói riêng với sự tham dự của đại diện Đại học Y Hà Nội, Digosys, Đại học Bách khoa Hà Nội.
+
+PGS.TS Nguyễn Thị Trang đến từ Đại học Y Hà Nội mở đầu bằng bài tham luận 10 phút. Phó giáo sư nhận định AI ngày càng được quan tâm và đầu tư nghiên cứu, thành công trong nhiều lĩnh vực. Trong ngành y tế, AI giúp phân biệt hình ảnh CT và X-quang chứa nhiều pixel; quy trình chẩn đoán phức tạp; chẩn đoán sớm, chính xác, không bỏ sót tổn thương; khan hiếm chuyên gia chẩn đoán. Từ đó, trí tuệ nhân tạo có thể giảm bớt các nhược điểm trong quy trình chẩn đoán truyền thống, tăng hiệu quả chẩn đoán cho đội ngũ y tế.
+
+
+
+
+
+
+
+
+
+
+
+
+PGS.TS Nguyễn Thị Trang trình bày về ứng dụng AI trong lĩnh vực y tế. Ảnh: Giang Huy
+
+Nữ bác sĩ cho rằng, AI nên được áp dụng trong liệu pháp tân bổ trợ, hóa trị, liệu pháp miễn dịch, liệu pháp nhắm mục tiêu, chẩn đoán hình ảnh và phẫu thuật.Đơn cử, trong điều trị ung thư phổi, AI có thể phân tích và đưa ra dự đoán về tiên lượng điều trị, nguy cơ kháng điều trị; kết hợp kiến thức đa chuyên ngành; rút ngắn thời gian lên kế hoạch điều trị; tối ưu hóa các phương pháp điều trị hiện tại.AI cũng được ứng dụng trong sử dụng thuốc và dự đoán đáp ứng điều trị. Đến workshop, PGS.TS Nguyễn Thị Trang còn giới thiệu phần mềm dự đoán điều trị trúng đích AICancer, phần mềm đo độ mờ da gáy do nhóm của bà phát triển.Trong thời gian tới, nhóm nghiên cứu của bà sẽ hợp tác với Đại học Oxford để phát triển phần mềm AI và IST ứng dụng quản lý toàn diện, cá thể hóa điều trị COPD, các bệnh lý đồng mắc tại Việt Nam. PGS.TS Nguyễn Thị Trang cũng đưa ra nhu cầu trong ngành y tế hiện nay cần có phương pháp và công cụ để đánh giá hiệu suất của các ứng dụng AI y học, đảm bảo tin cậy, an toàn.
+
+
+
+
+
+
+
+
+
+
+
+
+TS.BS Nguyễn Hải Tuấn đến từ Digosys. Ảnh: Giang Huy
+
+Tham luận tiếp theo đến từ TS.BS Nguyễn Hải Tuấn, Cố vấn Tin Sinh học Digosys. Chuyên gia trình bày về Ứng dụng AI trong phác đồ điều trị ung thư. Ông đưa ra hạn chế hiện tại ở Việt Nam chủ yếu đến từ việc chẩn đoán muộn, thiếu nhân lực và trang thiết bị hiện đại, kháng liệu pháp điều trị tiêu chuẩn. Trong khi đó, xu hướng điều trị mới của thế giới là ứng dụng AI rộng rãi.Bác sĩ Tuấn nhắc đến giải pháp Genomate của Digosys được phát triển dựa trên AI, nhằm nâng cao hiệu quả điều trị và cá nhân hóa liệu pháp ung thư cho từng bệnh nhân, giúp tăng tỷ lệ sống sót, đáp ứng khối u, kéo dài thời gian sống, đồng thời cải thiện chất lượng cuộc sống người bệnh.Genomate đang được áp dụng cho khoảng 10.000 bệnh nhân trên thế giới, đạt giải thưởng đổi mới đột phá về AI trong chữa trị ung thư, tham gia chương trình hỗ trợ tăng tốc của Mayo Clinic, vị tiến sĩ giới thiệu.Theo Tiến sĩ Nguyễn Hải Tuấn, các bác sĩ và bệnh nhân, hệ thống quản lý, các nhà nghiên cứu, đối tác bảo hiểm đều hưởng lợi khi triển khai dịch vụ Genomate. Nếu được áp dụng tại Việt Nam, Genomate sẽ nâng cao chất lượng chăm sóc sức khỏe, giảm áp lực chi phí, tạo sự đột phá cho ngành y tế.
+
+
+
+
+
+
+
+
+
+
+
+
+Các diễn giả đưa ra giải pháp kéo gần khoảng cách giữa lý thuyết và thực hành trong ứng dụng AI vào y tế. Ảnh: Giang Huy
+
+Ở phần thảo luận, ngoài hai diễn giả trên còn có đại diện đến từ đơn vị đào tạo - PGS.TS Huỳnh Thị Thanh Bình, Phó Hiệu trưởng trường Công nghệ Thông tin và Truyền thông, Đại học Bách khoa Hà Nội. Các chuyên gia đã có những phân tích ở góc độ chuẩn bị nguồn nhân lực, nhằm kéo gần khoảng cách giữa lý thuyết và thực tế khi ứng dụng AI trong y tế.Chia sẻ về công tác đào tạo nguồn nhân lực tại Đại học Bách khoa Hà Nội, Phó giáo sư Bình cho biết, trường có một số chương trình đào tạo liên quan y tế để sinh viên đăng ký tham gia. Đến năm thứ ba, các em được đi thực tập tại doanh nghiệp hoặc bệnh viện, qua đó trau dồi những trải nghiệm đúng với lĩnh vực học tập, nghiên cứu. Các chương trình đào tạo này hướng tới gắn kết lý thuyết và thực hành, bổ sung thêm nguồn nhân lực kết hợp với các chuyên gia trong ngành y, từ đó nâng cao chất lượng khám chữa bệnh, bà Huỳnh Thị Thanh Bình khẳng định.Nói về khó khăn khi ứng dụng AI trong ngành y, PGS.TS Nguyễn Thị Trang cho hay, khối lượng dữ liệu lớn khiến việc sàng lọc của các bệnh viện không nhanh chóng, đồng bộ. AI cũng tác động lớn đến đạo đức y học. Do đó, các nhà quản lý phải đưa ra tiêu chí giám sát khi triển khai AI trong hoạt động.Khép lại phiên hội thảo buổi sáng là bài trình bày về Phát triển và ứng dụng trí tuệ nhân tạo có trách nhiệm ở Việt Nam đến từ đại diện Trường Đại học Luật, Đại học Quốc gia Hà Nội.
+
+
+
+
+
+
+
+
+
+
+
+
+PGS. TS Nguyễn Thị Quế Anh, Nguyên Hiệu trưởng Trường Đại học Luật, Đại học Quốc gia Hà Nội. Ảnh: Giang Huy
+
+Dựa trên các quy định pháp lý điều chỉnh việc phát triển và ứng dụng AI, chính sách Nhà nước, PGS. TS Nguyễn Thị Quế Anh, Nguyên Hiệu trưởng Trường Đại học Luật, Đại học Quốc gia Hà Nội đưa ra một số bộ nguyên tắc về AI có trách nhiệm. Điểm chung của các bộ này là tính tự chủ và sự giám sát của con người; bền vững kỹ thuật và an toàn; quyền riêng tư và quản trị dữ liệu; tính minh bạch và có thể giải thích được; tính đa dạng, bao trùm, không phân biệt đối xử và công bằng; thịnh vượng xã hội và môi trường; trách nhiệm giải trình.Bà đưa ra khuyến nghị khi ứng dụng AI tại Việt Nam là cần hoàn thiện khung pháp lý và đạo đức; thúc đẩy AI có trách nhiệm và đáng tin cậy; hướng tới kỷ nguyên AI vị nhân sinh (Human-centric AI); xây dựng bộ nguyên tắc chung và hướng dẫn AI có trách nhiệm.Workshop là sự kiện khởi động Ngày hội Trí tuệ nhân tạo Việt Nam (AI4VN 2024), tổ chức tại Trung tâm Hội nghị Quốc gia, Hà Nội. Diễn ra từ 8h ngày 23/8, bốn phiên hội thảo (AI Workshop) nối tiếp với các diễn giả danh tiếng và chuyên gia trí tuệ nhân tạo đến từ các đơn vị nghiên cứu, doanh nghiệp, trường đại học, cùng trao đổi kinh nghiệm, tìm kiếm giải pháp cho những thách thức hiện tại và tối đa hóa lợi ích của các công nghệ AI.AI4VN 2024 có chủ đề Mở khóa sức mạnh trí tuệ nhân tạo tạo sinh (Unlock the power of Generative AI. Sự kiện do Bộ Khoa học và Công nghệ chỉ đạo, Báo VnExpress tổ chức với sự phối hợp của Câu lạc bộ Các Khoa - Viện - Trường Công nghệ thông tin -Truyền thông (FISU), bắt đầu từ năm 2018.Ngoài phiên chính của AI4VN (AI Summit) diễn ra chiều 23/8 có sự tham của của lãnh đạo Chính phủ, bộ ngành và các tổ chức quốc tế, trong khuôn khổ AI4VN 2024, một triển lãm (AI Expo) gồm các gian hàng trình diễn các sản phẩm AI tiêu biểu của các doanh nghiệp, viện, trường... Khách tham dự có cơ hội trải nghiệm các sản phẩm mới ứng dụng AI đang có trên thị trường Việt Nam.Thanh Thư
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

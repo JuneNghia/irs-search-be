@@ -1,0 +1,36 @@
+Người đứng đầu Google AI nói về tiềm năng của Việt Nam 
+Jeff Dean, Giám đốc AI của Google, đánh giá Việt Nam có nhiều tài năng trẻ trong lĩnh vực trí tuệ nhân tạo và cần nuôi dưỡng ngay từ đại học.
+
+Tại sự kiện Building AI Future for Vietnam diễn ra ở Đại học Fulbright ngày 19/8, Jeff Dean, nhà khoa học trưởng kiêm người đồng sáng lập Google Brain, Google Translate, Gemini, chia sẻ góc nhìn của ông về tương lai AI và cơ hội của Việt Nam trong cuộc cách mạng này.Ông Dean cho rằng Việt Nam có nhiều tài năng trẻ trong lĩnh vực công nghệ nói chung và AI nói riêng. Để nuôi dưỡng nhân tài, các trường đại học cần tạo thêm cơ hội để sinh viên nghiên cứu và tiếp cận phương pháp học tập mới.Tôi đã gặp nhiều tài năng từ Việt Nam, các doanh nghiệp đang tập trung vào lĩnh vực AI cụ thể. Họ làm ra nhiều sản phẩm thú vị và phát triển nhanh. Nhiều sinh viên cũng rất quan tâm và có hiểu biết nhất định về trí tuệ nhân tạo. Tôi nghĩ AI ở Việt Nam đang rất thú vị, ông nói.
+
+
+
+
+
+
+
+
+
+
+
+
+Jeff Dean, Giám đốc AI của Google, trong sự kiện Building AI Future for Vietnam ngày 19/8 tại TP HCM. Ảnh: Khương Nha
+
+Theo ông, một trong những hiểu lầm phổ biến khi nhắc đến AI là nhiều người nghĩ phải cần rất nhiều tiền. Tuy nhiên, các trường đại học, công ty trẻ của Việt Nam vẫn có thể tiếp cận mà không phải đầu tư nhiều về tài chính.Ngay ở Google, chúng tôi đang thử nghiệm những ý tưởng AI mới, chạy trên các mô hình máy tính chỉ trong vài giờ. Không phải tất cả đều cần một phòng thí nghiệm quy mô lớn, ông nhấn mạnh.Lời khuyên của lãnh đạo Google dành cho người trẻ Việt Nam muốn tìm kiếm cơ hội trong kỷ nguyên AI là tập trung vào kiến thức nền tảng. Ông thường xuyên nhận được câu hỏi rằng AI đang phát triển quá nhanh, làm sao để người trẻ phát triển sự nghiệp trong lĩnh vực này. Tôi luôn phải trấn an rằng các bạn không thể theo kịp tất cả tiến bộ, tôi cũng không thể. Nhưng nếu nắm vững kỹ thuật cơ bản, các bạn có thể nhanh chóng nắm bắt và áp dụng. Sau đó tìm cho mình lĩnh vực yêu thích và tập trung vào, thay vì chạy theo tất cả xu hướng mới.Viễn cảnh AI thông minh hơn con ngườiKhi được hỏi với tốc độ tiến bộ hiện nay của AI tạo sinh (GenAI), có khi nào trí tuệ nhân tạo sẽ thông minh hơn con người và quay lại phá hủy thế giới như nhiều người lo ngại, Jeff Dean đáp: AI ngày thông minh, khiến nhiều người nghĩ đến kịch bản khác nhau trong 5-10 năm hoặc xa hơn. Nhưng về cơ bản, mô hình AI vẫn chỉ là phần mềm do con người tạo ra. Do đó tôi ít lo lắng về điều đó.Nhà khoa học trưởng của Google cho rằng bất kỳ thứ gì dùng sai cách đều mang đến những điều tồi tệ, dù là AI hay động cơ tên lửa. Mối nguy về AI nên được đặt trong bối cảnh cụ thể thay vì lo lắng chung chung. Ông ví dụ việc ứng dụng AI trong phát triển xe tự lái, chăm sóc sức khỏe sẽ khác AI làm thơ, viết văn. Tuy nhiên, ngay từ khâu thiết kế, xây dựng hệ thống, các kỹ sư cũng cần tuân thủ quy tắc đạo đức nhất định để AI không vượt lằn ranh đỏ.
+
+
+
+
+
+
+
+
+
+
+
+
+Tiến sĩ Jeff Dean (trái) và tiến sĩ Lê Viết Quốc trong sự kiện Building AI Future for Vietnam ngày 19/8. Ảnh: Khương Nha
+
+Tiếp lời Jeff Dean, tiến sĩ Lê Viết Quốc, nhà đồng sáng lập Google Brain, nói: AI kết hợp con người luôn tốt hơn AI đứng độc lập. Nếu kết hợp với con người sẽ không có mối nguy hiểm nào trong 10-15 năm tới.Theo ông, con người buộc phải thích nghi với sự xuất hiện của trí tuệ nhân tạo và tìm cách khai thác sức mạnh của cả hai. Ông lưu ý lực lượng lao động sẽ sớm chia hai nhóm rõ rệt: một nhóm biết cách hệ thống hóa và dùng AI giải quyết vấn đề, nhóm còn lại không sẵn sàng đón nhận các thay đổi.Trong dài hạn, ông Quốc không phủ nhận AI có thể bị lạm dụng, nhưng đây là nguy cơ chung của các phát minh công nghệ, không riêng AI.Khương Nha
+
+

@@ -1,0 +1,56 @@
+Thiết bị ANS AI Box được ứng dụng trong đời sống thế nào? 
+ANS AI Box được tích hợp sẵn hơn 20 tác vụ AI giúp phân tích, nhận dạng, phát hiện bất thường và tự động gửi cảnh báo đến người dùng trong nhiều lĩnh vực đời sống.
+
+Thiết bị ANS AI Box được nghiên cứu và phát triển bởi các chuyên gia AI và tự động hóa của Anscenter, một công ty trí tuệ nhân tạo có trụ sở ở Sydney, Australia. Tại Việt Nam, Công ty cổ phần Nghiên cứu Phát triển và Cung cấp Dịch vụ AI Việt Nam (AI Vietnam) phân phối sản phẩm này.
+
+
+
+
+
+
+
+
+
+
+
+
+Thiết bị ANS AI Box được giới thiệu tại sự kiện AI4VN 2024. Ảnh: Bá Hội
+
+Theo nhà sản xuất, AI Box là một thiết bị biên (edge device), kết hợp các giải pháp và công nghệ tiên tiến, chuyển đổi các tín hiệu đầu vào như video từ các camera thông thường, thành các tín hiệu thông minh thông qua các tác vụ AI.ANS AI Box được thiết kế để ứng dụng trong nhiều lĩnh vực như xây dựng, khai thác khoáng sản an ninh quốc phòng, ngành điện, thủy hải sản, may mặc, giám sát giao thông, hệ thống logistics ngoài ra còn có các văn phòng, cơ quan, cửa hàng, nhà máy, xưởng, trường học, bệnh viện, trung tâm thương mại, tòa nhà, khu vực công cộng và bãi đậu xe. Trong y tế, sản phẩm có thể giám sát và phân tích hình ảnh y khoa, hỗ trợ chẩn đoán. Với lĩnh vực giáo dục, thiết bị giúp quản lý lớp học, theo dõi học sinh và đảm bảo an ninh trường học. Đối với sản xuất, ANS AI Box theo dõi quy trình sản xuất, phát hiện sự cố, lỗi và đảm bảo an toàn lao động.
+
+
+
+
+
+
+
+
+
+
+
+
+Hoạt động của ANS Box AI. Ảnh: Anscenter
+
+Đại diện AI Vietnam cho biết, ANS AI Box có thể thay thế con người trong việc giám sát, phân tích video, phát hiện các đối tượng và hành vi bất thường, đồng thời đưa ra cảnh báo chính xác đến người quản lý. Hệ thống xử lý dữ liệu video theo thời gian thực, giúp giải quyết mọi vấn đề kịp thời, mang lại hiệu quả cao trong công tác giám sát, cảnh báo và đưa ra các quyết định hành động phù hợp.Thiết bị được tích hợp sẵn hơn 20 tác vụ AI, cho phép thực hiện các bài toán dự đoán, nhận dạng, phát hiện bất thường và giám sát an ninh trong nhiều lĩnh vực kinh tế xã hội. Khi xảy ra tình huống bất thường trong video, hệ thống AI sẽ tự động nhận diện và gửi cảnh báo dưới dạng tin nhắn, email hoặc xuất file để gửi đến người quản lý ngay tại thời điểm diễn ra. Nhờ đó, người quản lý có thể nhanh chóng đưa ra quyết định phù hợp.
+
+
+
+
+
+
+
+
+
+
+
+
+ANS Box AI có thể tích hợp vào hệ thống camera. Ảnh: Anscenter
+
+Ngoài ra, ANS AI Box được thiết kế với tính mở, cho phép các đối tác và nhà phát triển dễ dàng mở rộng tính năng và tích hợp với các hệ thống hiện có thông qua các thư viện mở và các giao thức công nghiệp chuẩn. Người dùng có thể dễ dàng tích hợp AI Box vào hệ thống của mình mà không cần đầu tư nhiều công sức vào việc tích hợp hay thay đổi cơ sở hạ tầng.ANS AI Box hỗ trợ hầu hết các công nghệ AI trong lĩnh vực xử lý thị giác máy tính, giúp người dùng dễ dàng thiết kế các tác vụ AI như phân loại, nhận dạng đối tượng, phân đoạn, dự đoán tư thế, nhận dạng khuôn mặt, nhận dạng biển số xe , OCR, và Segmentation Anything (SAM), đại diện Anscenter chia sẻ.ANS AI Box có khả năng tích hợp vào các hệ thống giám sát và có thể mở rộng thêm khi nhu cầu tăng lên, là một giải pháp mở dành cho doanh nghiệp. Hệ thống này có khả năng tương thích với các hệ thống an ninh khác như kiểm soát truy cập, hệ thống báo động, và phần mềm quản lý sự cố, tạo ra một hệ sinh thái an ninh toàn diện.Bằng cách xử lý dữ liệu tại chỗ trên ANS AI Box, thông tin nhạy cảm được giữ an toàn và bảo mật, giảm thiểu nguy cơ rò rỉ dữ liệu.AI Box có thể được cấu hình để làm mờ khuôn mặt hoặc ẩn danh cá nhân, đảm bảo tuân thủ các quy định và chính sách bảo mật, đại diện AI Vietnam cho biết.Hội An
+Thông tin liên hệ:
+Dr. Mark Trieu - Asian Director
+Điện thoại: +84 972 057 159
+Email: hoangtt@anscenter.com
+
+
+

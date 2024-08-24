@@ -1,0 +1,55 @@
+Nhiều thợ đào Bitcoin đầu hàng, cho thuê trâu cày 
+Việc khai thác Bitcoin ngày càng khó, doanh thu hàng ngày giảm khiến thợ đào phải chấp nhận lợi nhuận thấp hoặc rời thị trường.
+
+Dữ liệu được công ty nghiên cứu thị trường blockchain CryptoQuant công bố ngày 19/8 cho thấy chỉ số Hash Ribbons - phản ánh độ khó và thách thức tài chính đối với thợ đào Bitcoin - có đường trung bình động trong 30 ngày tính đến 11/8 cao hơn so với 2 tháng trước đó. Theo CoinTelegraph, đây là thông số bất lợi đối với thợ đào, báo hiệu lợi nhuận của họ tiếp tục giảm.Trước đó, ngày 1/8, độ khó khai thác Bitcoin cũng đạt mức kỷ lục 90,66 nghìn tỷ. Dù đã xuống 86,8 nghìn tỷ vài ngày sau, con số này vẫn cao hơn so với mức khó nhất ghi nhận đầu năm là 82,1 nghìn tỷ.
+
+
+
+
+
+
+
+
+
+
+
+
+Độ khó khai thác Bitcoin tính đến đầu tháng 8. Nguồn: CryptoQuant
+
+Độ khó tăng lên làm xói mòn lợi nhuận của thợ đào vốn đã bị thu hẹp mạnh thời gian qua. Theo số liệu của Blocksbridge ngày 8/8, lợi nhuận khai thác Bitcoin giảm xuống mức thấp kỷ lục là dưới 36 petahash mỗi giây (PH/giây).Kể từ sau đợt Bitcoin halving lần thứ tư cuối tháng 4, thu nhập của thợ đào lao dốc, thể hiện qua chỉ số về khả năng duy trì lợi nhuận. Doanh thu hàng ngày của thợ đào giảm 63% trong hai tháng qua, do phần thưởng ít hơn và phí giao dịch tăng lên. Trong khi đó, các hệ thống trâu cày cũng cần đầu tư nâng cấp khiến thợ đào đứng trước ngưỡng buông tay, tắt máy.Tổng doanh thu hàng ngày của thợ đào đầu tháng 3 là 79 triệu USD, nhưng hiện là 29 triệu USD. Nguồn thu từ phí giao dịch cũng chỉ chiếm 3,2% tổng doanh thu mỗi ngày, mức thấp nhất tính từ 8/4, báo cáo đầu tháng 7 của CryptoQuant nêu.
+
+
+
+
+
+
+
+
+
+
+
+
+Minh họa về khai thác tiền số. Ảnh: Coin Telegraph
+
+Một số công ty đang chuyển hướng cho thuê hệ thống GPU, vốn được dùng để khai thác tiền số, sang đào tạo AI và các dịch vụ điện toán công suất cao. Theo CoinTelegraph, vào tháng 7, công ty khai thác Bitcoin TeraWulf công bố đã đa dạng hóa hoạt động, tập trung vào trung tâm dữ liệu AI.Theo số liệu từ JP Morgan, tính đến 17/6, tổng vốn hóa thị trường của 14 công ty khai thác Bitcoin lớn được niêm yết tại Mỹ đạt 22,8 tỷ USD, tăng 4,4 tỷ USD trong hai tuần. Tuy nhiên, những công ty này đang đầu tư vào AI nhiều hơn mua trâu cày. Hãng khai thác Bitcoin Bit Digital ước tính 27% doanh thu sẽ đến từ AI thông qua việc cho thuê GPU Nvidia ở Iceland, tương đương 92 triệu USD mỗi năm.Hut8, công ty khai thác tiền số ở Miami, cũng huy động 150 triệu USD để xây dựng trung tâm dữ liệu AI. Chúng tôi đã hoàn tất thỏa thuận thương mại liên quan đến AI theo mô hình cho thuê GPU, gồm thỏa thuận với khách hàng về khoản thanh toán cơ sở hạ tầng cố định kết hợp chia sẻ doanh thu, Asher Genoot, CEO Hut8, nói với CNBC.Bảo Lâm
+Thợ đào Bitcoin trước ngưỡng buông tay, tắt máy
+Nhiều thợ đào Bitcoin tắt trâu cày
+Thợ đào có thể thiệt hại chục tỷ USD khi Bitcoin halving
+Thợ đào Bitcoin trước ngưỡng buông tay, tắt máy
+
+
+
+
+Nhiều thợ đào Bitcoin tắt trâu cày
+
+
+
+
+Thợ đào có thể thiệt hại chục tỷ USD khi Bitcoin halving
+
+
+
+
+
+
+

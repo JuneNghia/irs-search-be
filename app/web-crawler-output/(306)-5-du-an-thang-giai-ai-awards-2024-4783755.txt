@@ -1,0 +1,97 @@
+5 dự án thắng giải AI Awards 2024 
+Giải bình chọn Sản phẩm ứng dụng Trí tuệ nhân tạo (AI Awards 2024) do VnExpress tổ chức đã tìm được chủ nhân top 5 xuất sắc và một giải dự án AI đáng chú ý của năm.
+
+Top 5 dự án thắng giải được chọn từ 16 giải pháp, sản phẩm vào vòng chung kết diễn ra hôm 16/8 sau gần 2 tháng phát động. Trước đó, các nhóm dự thi trải qua vòng sơ loại từ 70 hồ sơ tham dự, tiếp đến chọn 48 dự án vào vòng bình chọn. Chủ nhân giải thưởng sẽ nhận các lợi ích truyền thông trên Báo VnExpress trị giá 100.000.000 VNĐ, được kết nối tới các đối tác quan tâm để ứng dụng, mở rộng thị trường, kinh doanh sản phẩm.
+
+
+
+
+
+
+
+
+
+
+
+
+Thứ trưởng Khoa học và Công nghệ Bùi Thế Duy (bìa phải) trao giải cho top 5 dự án thắng giải AI Awards. Ảnh: Giang Huy
+
+1. Giải pháp trợ lý ảo tổng đài OmiBotOmiBot là giải pháp được phát triển bởi Công ty cổ phần Minh Phúc Transformation. Không chỉ đơn thuần là một trợ lý ảo, OmiBot là hệ thống thông minh có khả năng tương tác bằng giọng nói tự nhiên, đáp ứng ngay lập tức với độ trễ dưới 1 giây và xử lý linh hoạt các tình huống phát sinh.Sử dụng công nghệ AI tạo sinh, OmiBot tạo ra giọng nói chân thực, gần gũi với người nghe, mang lại lợi ích cho doanh nghiệp như tiết kiệm chi phí vận hành, tự động hóa quy trình, mở rộng quy mô và giảm rủi ro bảo mật. Về mặt công nghệ, nhóm nghiên cứu đã sử dụng hệ thống Natural Language Processing (NLP) kết hợp hai thế mạnh của NLP truyền thống và Generative AI tiên tiến. Điều này giúp OmiBot hiểu và phản hồi thông minh, nâng cao trải nghiệm người dùng. Công nghệ Speech to Text (STT) và Text to Speech (TTS), OmiBot biến những cuộc hội thoại trở nên mượt mà và liền mạch.Sự thông minh của Generative AI mang lại nhiều ưu thế, nhưng theo nhóm tác giá OmiBot vẫn duy trì kiểm soát 100% các tình huống xử lý, đảm bảo không gây ra ảo giác và đáp ứng chính xác nhu cầu của khách hàng. Ngoài ra, OmiBot có thể xử lý trên dữ liệu cá nhân hóa của doanh nghiệp, học hỏi tình huống xử lý từ tri thức nghiệp vụ của chính đội ngũ tổng đài viên, mang đến giải pháp tương tác khách hàng linh hoạt và hiệu quả.
+
+
+
+
+
+
+
+
+
+
+
+
+Thử nghiệm tính năng giải pháp chat bot mang tên OmiBot của nhóm tác giả. Ảnh: Nhóm tác giả
+
+2. MedCAT AI InsuranceMedCAT AI Insurance được phát triển bởi công ty cổ phần MEDCAT với mục tiêu đọc, hiểu và tái cấu trúc dữ liệu từ các hồ sơ y tế.
+Nền tảng này sử dụng những tiến bộ mới nhất trong lĩnh vực ngôn ngữ tự nhiên (Natural Language Processing - NLP), trí tuệ nhân tạo và kiến thức y tế chuyên sâu để phân tích và xử lý các tài liệu y tế. Quá trình bắt đầu bằng việc chụp ảnh hoặc quét các hồ sơ y tế của một bộ hồ sơ yêu cầu bồi thường. Những hình ảnh này được phân tích nội dung bằng hệ thống MedCAT IDUS. Hệ thống đọc và hiểu nội dung của hồ sơ y tế và chuyển đổi chúng thành dạng dữ liệu có cấu trúc. Thông tin từ các hồ sơ y tế không chỉ được số hóa mà còn được cấu trúc hóa, giúp dễ dàng truy cập và phân tích sau này.Sản phẩm có thể trích xuất và tái cấu trúc mọi thông tin trên bất kỳ biểu mẫu y tế nào với độ chính xác cao. Sau khi dữ liệu được tái cấu trúc, hệ thống MedCAT AI Insurance sẽ tiếp nhận và xử lý. Đây là một bước tiến lớn trong việc tự động hóa quá trình bồi thường bảo hiểm.MedCAT AI Insurance giúp nhân viên tăng năng suất xử lý hồ sơ bồi thường bảo hiểm ít nhất 5 lần, từ 30 bộ mỗi ngày lên 150 bộ mỗi ngày. Điều này giúp khách hàng có thể được nhận bồi thường trong vòng 5 phút thay vì phải đợi tối thiểu 30 phút hoặc thậm chí 2 tuần như hiện nay. Sản phẩm có thể số hóa và quản trị thông tin khám chữa bệnh của hơn 91 triệu người tham gia bảo hiểm y tế Việt Nam .3. CodeVistaBằng cách tận dụng Generative AI giải pháp CodeVista của AI Center và FPT Software, cung cấp cho các nhà phát triển phần mềm các công cụ hỗ trợ AI tiên tiến giúp đơn giản hóa quy trình viết mã và giảm độ phức tạp. Khác biệt với các công cụ hiện có, CodeVista tương tác với hệ thống Generative AI thông qua cơ chế prompting, tương tự như ChatGPT nhưng được bổ sung nhiều tính năng chuyên biệt để hỗ trợ các tác vụ lập trình. Điều này mang lại một trải nghiệm hoàn toàn mới, giúp tăng năng suất và tiết kiệm thời gian cho các dự án phần mềm. Sản phẩm CodeVista có thể được lưu trữ trên máy chủ riêng, đảm bảo tính bảo mật và riêng tư của dữ liệu người dùng. Điều này đặc biệt quan trọng trong bối cảnh các doanh nghiệp ngày càng chú trọng đến việc bảo vệ dữ liệu và thông tin khách hàng.FPT Software ước tính CodeVista sẽ giúp giảm 48% thời gian phát triển trung bình. Công cụ mang đến trải nghiệm hoàn toàn mới trong việc lập trình, giúp tăng năng suất, tiết kiệm thời gian cho các dự án phần mềm, không chỉ đi sát với nhu cầu đặc thù của các lập trình viên mà còn đảm bảo tuyệt đối bảo mật dữ liệu cho doanh nghiệp, khách hàng.FPT Software đã áp dụng CodeVista làm công cụ nội bộ chính thức cho các sáng kiến phát triển phần mềm của mình. Với 50 đơn vị trong toàn tổ chức đã cam kết sử dụng CodeVista, mục tiêu là đạt 100% việc áp dụng trên toàn bộ lực lượng lao động gồm 30.000 nhà phát triển phần mềm vào cuối năm 2024.4. FPT AI MentorFPT AI Mentor xây dựng dựa trên lượng tri thức khổng lồ được tạo sinh từ dữ liệu của doanh nghiệp. Giải pháp do FPT Smart Cloud phát triển, hướng đến tự động hóa và cá nhân hóa quy trình đào tạo bởi AI. FPT AI Mentor ứng dụng phương pháp Adaptive Micro-learning (Học Vi mô Thích ứng), giúp nâng cao chất lượng đào tạo nhân viên, cải thiện kiến thức và năng lực. Đây được coi là trợ thủ đắc lực đồng hành cùng mọi nhân viên, giúp giải đáp mọi thắc mắc liên quan đến công việc, giúp tăng năng suất và hiệu quả vận hành cho doanh nghiệp. Sản phẩm giúp cho việc đánh giá 100% nhân viên, cải thiện 55% chất lượng kiến thức, tiết kiệm 80% nguồn lực đào tạo.Hiện FPT Long Châu là đơn vị tiên phong ứng dụng AI trong quy trình đào tạo dược sĩ với quy mô khoảng 4.000 người. Sau khi triển khai FPT AI Mentor 95% trong số 14.000 dược sĩ tham gia mỗi tháng với lộ trình học tập riêng, 70% trong đó là người học thường xuyên. Tỷ lệ trả lời đúng lên tới 80% sau 3 tháng triển khai.
+
+
+
+
+
+
+
+
+
+
+
+
+Ứng dụng của FPT AI Mentor. Ảnh: Nhóm tác giả
+
+5. Công nghệ đo và tư vấn dinh dưỡng cho cây trồngCác kỹ sư và chuyên gia môi trường của Công ty Công nghệ Nông nghiệp Enfarm đã phát minh ra bộ thiết bị đo dinh dưỡng thông minh enfarm bao gồm: cảm biến nằm trong đất, thiết bị phát sóng và app enfarm. Đây là công nghệ cảm biến cầm tay duy nhất có giá rẻ và bền với độ chính xác tương đương phòng thí nghiệm đạt chuẩn ISO. Các kết quả đo đạc dùng thiết bị efarm đạt độ trùng lặp tối thiểu 93% so với phòng thí nghiệm chuẩn ISO của Viện Khoa học Kỹ thuật Nông lâm nghiệp Tây Nguyên, nơi thực nghiệm trên 6.000 xét nghiệm đất mỗi năm.
+Nhóm nghiên cứu cho biết, họ phát triển công nghệ duy nhất tận dụng AI tạo sinh để tư vấn cụ thể bằng tiếng Việt 24/7 dựa trên dữ liệu từ cảm biến cho nông dân, giúp họ tăng năng suất, giảm chi phí và giảm tác động môi trường. Công nghệ này giúp tăng 20% năng suất với cùng chi phí đầu vào hoặc giảm tới 50% chi phí phân bón mà vẫn giữ sản lượng đối với cây cà phê, tạo ra sự đột phá trong sản xuất nông nghiệp.Công nghệ cũng giúp giảm lượng nước nước tưới 30%, tương đương giảm lượng điện tiêu thụ vào mùa khô để bơm nước ở Tây Nguyên. Bên cạnh đo dinh dưỡng thông minh, app enfarm còn giúp người nông dân cập nhật giá cả thị trường, chẩn đoán sâu bệnh hay quản lý nông trại. Cụ thể với cà phê, app enfarm có thể dự báo giá cả thị trường cây này, tạo cơ sở xây dựng nền tảng giao dịch cà phê trong tương lai và đưa ra quyết định định giá về cho nông dân Việt Nam. Hiện việc này được thực hiện tại sàn London và New York.Ban tổ chức cũng chọn và vinh danh Dự án AI đáng chú ý năm 2024 cho Trợ lý chứng khoán ảo Ensa - Giải pháp AI đột phá lĩnh vực tài chính 2024 của Công ty CP Chứng khoán DNSE. Sản phẩm hướng đến mục tiêu đơn giản hóa đầu tư cho người Việt với công cụ trợ lý ảo đầu tiên được xây dựng dưới hình thức chatbot, trả lời câu hỏi và cung cấp ý tưởng đầu tư ngay trên app Entrade X by DNSE.
+
+
+
+
+
+
+
+
+
+
+
+
+Thứ trưởng Bùi Thế Duy trao giải dự án AI đáng chú ý 2024 choTrợ lý chứng khoán ảo ENSA. Ảnh: Giang Huy
+
+Đội ngũ phát triển sản phẩm áp dụng những thuật toán được ứng dụng AI, mô hình ngôn ngữ lớn, cùng kiến thức của chuyên gia tư vấn hàng đầu. Ensa có khả năng tự động học hỏi, sàng lọc, cập nhật thông tin súc tích nhất về mã cổ phiếu, tin vĩ mô... Chat bot có thể tự động cập nhật tin tức thị trường từ các nguồn tin cậy, gửi đến nhà đầu tư theo thời gian thực. Trợ lý chứng khoán ảo Ensa còn giúp nhà đầu tư tiết kiệm thời gian, cập nhật góc nhìn khách quan từ số liệu, tránh được yếu tố cảm xúc trong giao dịch.Trong khi môi giới truyền thống chỉ có thể phục vụ số lượng 20-50 nhà đầu tư một lúc, trợ lý chứng khoán ảo có thể phục vụ hàng ngàn khách hàng trong một thời điểm, giúp nhà đầu tư tiết kiệm thời gian, đồng thời công ty chứng khoán tiết kiệm nguồn lực hiệu quả.Ensa mới ra mắt được nửa năm, đã tiếp cận được hơn 11,1 nghìn người dùng với hơn 135 nghìn câu hỏi, trở thành người bạn đồng hành tin cậy và hiệu quả của nhà đầu tư.
+
+
+
+
+
+
+
+
+
+
+
+
+Giao diện giải pháp trợ lý chứng khoán ảo. Ảnh: Nhóm tác giả
+
+GS.TS Chử Đức Trình, Hiệu trưởng trường Đại học Công nghệ, Đại học Quốc gia Hà Nội, thành viên Hội đồng giám khảo đánh giá các doanh nghiệp tham gia giải thưởng có nền tảng về công nghệ thông tin, kỹ thuật, điện tử, xã hội... Các dự án năm nay thể hiện rõ xu hướng tích hợp AI vào các sản phẩm công nghệ, gắn với nhu cầu cuộc sống. Ông tin tưởng AI Awards là một kỳ thi có sức hút hơn nữa trong những năm tới và AI cùng các giải pháp liên quan sẽ trở thành thế mạnh về công nghệ của Việt Nam.AI Awards 2024 tìm kiếm và vinh danh các sản phẩm, giải pháp hướng tới có tính sáng tạo độc đáo trong việc ứng dụng AI trong doanh nghiệp và cuộc sống con người.Giải thưởng tổ chức trong khuôn khổ AI4VN 2024 có chủ đề Mở khóa sức mạnh trí tuệ nhân tạo tạo sinh. Đây là sự kiện thường niên do Bộ Khoa học và Công nghệ chỉ đạo, Báo VnExpress, Công ty Cổ phần Dịch vụ trực tuyến FPT (FPT Online) tổ chức với sự phối hợp của Câu lạc bộ Các Khoa - Viện - Trường Công nghệ thông tin -Truyền thông (FISU), bắt đầu từ năm 2018.do Bộ Khoa học và Công nghệ chỉ đạo, Báo VnExpress tổ chức với sự phối hợp của Câu lạc bộ Các Khoa - Viện - Trường Công nghệ thông tin -Truyền thông (FISU). Đây là năm thứ hai giải thưởng được tổ chức, nhằm vinh danh những sản phẩm, giải pháp ứng dụng trí tuệ nhân tạo (AI) nổi bật trong sản xuất và cuộc sống.Vĩnh Hà
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

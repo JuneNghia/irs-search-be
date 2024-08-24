@@ -1,0 +1,20 @@
+Kính hiển vi nhanh nhất thế giới 
+MỹNhóm nhà vật lý tại Đại học Arizona phát triển kính hiển vi điện tử nhanh nhất thế giới, có thể chụp electron di chuyển với tốc độ 7.920.000 km/h.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mô phỏng công nghệ hiển vi atto (trái), kính hiển vi và các thiết bị xung quanh (phải). Ảnh: Mohammed Hassan/Đại học Arizona
+
+Thiết bị mới là phiên bản nâng cấp của kính hiển vi điện tử truyền qua, chụp ảnh electron đang di chuyển bằng cách bắn xung electron với thời gian một phần tỷ tỷ giây. Đây là thành tựu lớn vì electron di chuyển cực nhanh, khoảng 2.200 km/s hay 7.920.000 km/h, có thể bay vòng quanh Trái Đất chỉ trong 18,4 giây. Nghiên cứu mới xuất bản trên tạp chí Science Advances hôm 21/8.Nhóm nghiên cứu hy vọng, việc sử dụng kính hiển vi này trên hạt electron tí hon sẽ mang đến những phát hiện mới về cách chúng chuyển động. Kính hiển vi điện tử truyền qua này giống như một chiếc camera rất mạnh trong phiên bản smartphone mới nhất. Nó cho phép chụp ảnh những thứ mà trước đây chúng tôi không thể nhìn thấy như electron, tác giả chính của nghiên cứu, Mohammed Hassan, phó giáo sư vật lý và quang học tại Đại học Arizona, cho biết. Cách các electron tự sắp xếp và tái sắp xếp bên trong nguyên tử và phân tử là một vấn đề quan trọng trong cả vật lý lẫn hóa học, nhưng việc chúng di chuyển quá nhanh gây khó khăn lớn cho giới chuyên gia. Đầu những năm 2000, để tạo ra thời gian phơi sáng có thể chụp chuyển động của electron, các nhà vật lý đã phát triển phương pháp tạo ra xung atto giây (hay một phần tỷ tỷ giây). Đây cũng chính là nghiên cứu mang lại cho bộ ba Pierre Agostini, Ferenc Krausz và Anne LHuilliere giải Nobel Vật lý năm 2023.Bằng cách giảm thời gian phơi sáng của kính hiển vi xuống quy mô vài atto giây, các nhà vật lý đã giải mã được cách electron mang điện, cách chúng hoạt động bên trong chất bán dẫn và nước lỏng, cách các liên kết hóa học giữa những nguyên tử bị phá vỡ. Nhưng quy mô vài atto giây vẫn quá lớn để chụp chuyển động riêng lẻ của electron. Trong nghiên cứu mới, nhóm chuyên gia cải tiến súng electron cho đến khi nó tạo ra xung chỉ một atto giây. Các xung này bắn vào mẫu vật, và khi các electron đi qua đó, chúng chậm lại và thay đổi hình dạng của mặt sóng chùm electron. Tiếp theo, chùm electron chậm được một thấu kính khuếch đại, sau đó chạm đến một vật liệu huỳnh quang. Vật liệu này sẽ phát sáng khi chùm electron chạm tới.Chúng tôi có thể đạt được độ phân giải thời gian atto giây với kính hiển vi điện tử truyền qua của mình, và chúng tôi gọi nó là hiển vi atto. Lần đầu tiên, chúng tôi có thể nhìn thấy các phần của electron đang chuyển động, Hassan cho biết. Hassan cùng các đồng nghiệp tin rằng nghiên cứu mới sẽ dẫn đến những tiến bộ đột phá trong vật lý, hóa học, kỹ thuật sinh học, khoa học vật liệu và nhiều lĩnh vực khác.Thu Thảo (Theo Live Science)
+
+

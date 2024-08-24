@@ -1,0 +1,79 @@
+Robot hình người tiến thêm một bước ra đời thực 
+Unitree Robotics, startup về robot của Trung Quốc, chuẩn bị sản xuất hàng loạt robot hình người G1 và bán với giá 16.000 USD (400 triệu đồng).
+
+Unitree Robotics đã sẵn sàng thương mại hóa Unitree G1. The Verge nhận định mức giá 16.000 USD là hợp lý, dù người dùng phổ thông không dễ để tiếp cận.
+
+
+
+
+
+
+
+
+
+
+
+
+Robot hình người Unitree G1. Ảnh: Unitree Robotics
+
+Hiện nay, đã có nhiều công ty giới thiệu robot hình người, với đa dạng khả năng như chạy, nhảy, xếp đồ, nấu ăn, nhưng chủ yếu mang tính trình diễn trong phòng thí nghiệm, nhà máy. Người dùng chỉ có thể thấy chúng qua video chia sẻ trên mạng xã hội như X, YouTube hay Facebook.Unitree G1 là bản nâng cấp của Unitree H1. Cỗ máy cao 1,3 mét, nặng 35 kg, thấp hơn H1 với chiều cao 1,8 mét, nặng 47 kg, hướng đến việc thực hiện nhiệm vụ linh hoạt ở những khu vực con người khó tiếp cận.Bên trong, robot trang bị CPU 8 nhân hiệu suất cao, nhưng chưa rõ tên model. Phần đầu gồm hệ thống thị giác dựa trên camera Lidar Livox Mid-360 và camera đo độ sâu Intel RealSense D435, cho phép G1 nhìn thế giới trong không gian 3D. Cỗ máy vận hành thông qua hệ thống AI riêng có tên UnifoLM.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Unitree G1 trổ tài múa gậy, nấu nướng
+
+
+
+
+
+Robot hình người Unitree G1 trổ tài múa gậy, nấu nướng, đạp không ngã. Video: Unitree Robotics
+G1 có bàn tay hoạt động tự do thông qua khớp nối vận hành bằng động cơ trên cánh tay, chân và thân. Robot có thể nhảy, đi bộ với tốc độ tối đa hơn 7 km/h và leo cầu thang đầy mảnh vụn. So với H1, phần chốt cánh tay của G1 được thay bằng bàn tay ba ngón cho khả năng khéo léo, như hàn dây, cầm nắm vật dụng nhỏ, lật thức ăn trong chảo. Với dung lượng pin 9.000 mAh, robot có thể tự hoạt động trong khoảng hai tiếng.Bảo Lâm
+Robot hình người của Trung Quốc nhanh gấp 5 lần Optimus
+Robot hình người lắp ráp xe BMW gây ấn tượng vì sự linh hoạt
+Thêm hãng ôtô Trung Quốc đưa robot hình người vào nhà máy
+Robot tự hành cao nhất thế giới
+Bên trong nhà máy tỷ USD sản xuất robot như người
+Robot hình người của Trung Quốc nhanh gấp 5 lần Optimus
+
+
+
+
+Robot hình người lắp ráp xe BMW gây ấn tượng vì sự linh hoạt
+
+
+
+
+Thêm hãng ôtô Trung Quốc đưa robot hình người vào nhà máy
+
+
+
+
+Robot tự hành cao nhất thế giới
+
+
+
+
+Bên trong nhà máy tỷ USD sản xuất robot như người
+
+
+
+
+
+
+

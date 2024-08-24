@@ -1,0 +1,20 @@
+Khí cầu năng lượng mặt trời phát sóng Internet 
+MỹSceye HAPS, khí cầu sử dụng năng lượng mặt trời để lơ lửng ở tầng bình lưu, hướng tới phát tín hiệu Internet tốc độ cao cho người dân ở những cộng đồng xa xôi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sceye HAPS cất cánh vào tuần trước. Ảnh: New Atlas
+
+Sceye là một công ty hàng không vũ trụ ở Roswell, New Mexico, thành lập vào năm 2014 bởi Mikkel Vestergaard Frandsen. Sceye HAPS (Trạm nền tảng độ cao lớn) là khí cầu heli không người lái dài 65 m được thiết kế để cất cánh thẳng đứng, sau đó lên tới độ cao 18.288 - 19.812 m. Phương tiện sau đó có thể lơ lửng tại độ cao nhất định với bộ tọa độ GPS hoạt động nhờ pin quang điện gallium selenide và gallium arsenide tích hợp ở phần thân màu bạc của nó.Trong lúc khí cầu bay lơ lửng nhiều tháng giữa các lần hoạt động, nó có thể thực hiện nhiệm vụ như truyền Internet băng thông rộng cho cộng đồng hẻo lánh, theo dõi khí hậu và môi trường, quan sát cháy rừng hoặc thiên tai khác. Đây là một phần chủ chốt trong dự án của bang New Mexico, trong đó liên doanh các công ty viễn thông được thành lập để cung cấp truy cập mạng cho người Navajo. Khí cầu này cũng nằm trong nghiên cứu kéo dài 5 năm của Cơ quan Bảo vệ Môi trường Mỹ nhằm theo dõi và đo khí thải methane.Sceye HAPS thực hiện chuyến bay đầu tiên vào năm 2021, đạt độ cao tối đa 19.690 m. Nó cũng sử dụng bộ ăngten 4G và công nghệ hình thành chùm sóng để duy trì kết nối dữ liệu LTE OpenRAN với một điện thoại di động trên mặt đất, trải dài qua khoảng cách kỷ lục hơn 140 km. LTE thường có phạm vi khoảng 100 km.Cột mốc gần đây nhất của khí cầu diễn ra tuần trước khi nó chứng minh khả năng sạc pin ban ngày qua pin quang điện, sau đó sử dụng năng lượng từ pin để bay lơ lửng tại chỗ vào ban đêm. Khí cầu cất cánh vào ngày 15/8 ở cơ sở tại New Mexico của Sceye, đạt độ cao 18.593 m và không hạ cánh cho tới giữa trưa ngày hôm sau.Khi ở trong không trung, phương tiện cũng chứng minh khả năng ở tại chỗ trong khu vực hoạt động và chuyển tới khu vực khác. Tính đến nay, Sceye HAPS đã thực hiện tổng cộng 20 chuyến bay thử nghiệm và dự kiến hoạt động thương mại vào năm 2025.An Khang (Theo New Atlas)
+
+
